@@ -28,9 +28,17 @@ ul {
 }
 
 /* FIN estilos de CesarArriaga23" */
+
+/* Estilos Jonathan */
 #a2 {
-    background-color: red;
+    background-color: gold;
 }
+a[href*="JonathanLTI"] {
+    color: red;
+    font-size: medium;
+    font-style: italic;
+}
+/* Fin Estilos Jonathan */
 
 /* Estilos de ClaudiaCalvillo */
 /* -------------------------------------------------------------------------------------------------- */
