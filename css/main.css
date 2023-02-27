@@ -29,15 +29,18 @@ ul {
 }
 
 #a3 {
-    background-color: red;
+    background-color: aqua;
 }
 
+/* Estilos de stikermade */
+/* ------------------------------------- */
 #a4 {
     background-color: burlywood;
 }
+/* Fin estilos de stikermade */
 
 #a5 {
-    background-color: red;
+    background-color: rgb(11, 115, 146);
 }
 
 #a6 {
@@ -85,7 +88,7 @@ ul {
 }
 
 #a17 {
-    background-color: red;
+    background-color: rgb(107, 6, 6);
 }
 
 #a18 {
@@ -93,15 +96,15 @@ ul {
 }
 
 #a19 {
-    background-color: red;
+    background-color: rgba(137, 43, 226, 0.84);
 }
 
 #a20 {
-    background-color: red;
+    background-color: rgb(179, 24, 210);
 }
 
 #a21 {
-    background-color: red;
+    background-color: palevioletred;
 }
 
 #a22 {
@@ -122,11 +125,11 @@ ul {
 }
 
 #a26 {
-    background-color: red;
+    background-color: yellow;
 }
 
 #a27 {
-    background-color: red;
+    background-color: gold;
 }
 
 #a28 {
