@@ -43,13 +43,21 @@ ul {
 #a4 {
     background-color: burlywood;
     border-radius: 15px;
+    font-variant: small-caps;
 }
+
+#a4 a{ color: aliceblue;
+        font-variant: small-caps;
+}
+
 /* Fin estilos de stikermade */
 
+/* Estilos de ErickProg05
+------------------------------------- */
 #a5 {
-    background-color: rgb(11, 115, 146);
+    background-color:crimson;
 }
-
+/* Fin de estilos de ErickProg05 */
 #a6 {
     background-color: red;
 }
@@ -65,10 +73,15 @@ ul {
 #a9 {
     background-color: red;
 }
+/* Estilos de EdduardoMarcelo */
+/* ---------------------------------------------------------------------- */
+#a10 { 
+    background-color: rgb(6, 146, 123);
+    font-size: smaller; font-style: inherit;
 
-#a10 {
-    background-color: red;
+
 }
+/* Fin de estilos de EdduardoMarcelo */
 
 /* Estilos de ZGMSzayel27Granz */
 /* ------------------------------------------------------------------------------- */
@@ -95,6 +108,10 @@ ul {
     background-color: #01c38d;
     border-radius: 15px;
 }
+
+#a15 a{ color: aliceblue;
+    font-variant: small-caps;
+}
 /* Fin estilo SamuelOGG
 --------------------------------------------------------------------- */
 
@@ -110,14 +127,28 @@ ul {
 }
 /* FIN estilos de Erick4591 */
 
+/* --------------------------------------------------------------------------------------------------------------------- */
+/* estilos de miguelguerra1907187 */
 #a18 {
-    background-color: red;
+    background-color: green;
+    color: chartreuse;
+    font-variant: small-caps;
+    
 }
+li#a18{
+    border: 2px solid black;
+    box-shadow: 10px 5px 5px gold;
+
+}
+/* fin de estilos de miguelguerra1907187 */
 
 /* Estilo de melhdz */
 /* --------------------------------------------------------------------------------------------------------------------------------- */
+
 #a19 {
     background-color: rgba(137, 43, 226, 0.84);
+    color: aliceblue;
+    font-variant: small-caps;
 }
 /* FIN estilos de melhdz */
 #a20 {
@@ -165,6 +196,12 @@ ul {
 /* ------------------------------------------------------------ */
 #a27 {
     background-color: gold;
+    font-variant: small-caps;
+    border-radius: 12px;
+}
+
+#a27 a{
+    color: whitesmoke; 
 }
 /* Estilos de adriantkm */
 
