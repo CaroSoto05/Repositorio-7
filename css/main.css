@@ -100,8 +100,10 @@ li#a3 {
 /* ------------------------------------------------------------------------------- */
 #a11 {
     background-color: rgb(190, 35, 152);
+    color: orangered;
     font-variant: small-caps;
-    border-radius: 17px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgb(224, 136, 136);
 }
 /* Fin de estilos de ZGMSzayel27Granz */
 /* --------------------------------------------------------------------------------- */
