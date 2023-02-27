@@ -76,9 +76,15 @@ ul {
     background-color: red;
 }
 
+/* Estilo SamuelOGG
+--------------------------------------------------------------------- */
 #a15 {
-    background-color: red;
+    background-color: #01c38d;
+    border-radius: 15px;
 }
+/* Fin estilo SamuelOGG
+--------------------------------------------------------------------- */
+
 
 #a16 {
     background-color: red;
