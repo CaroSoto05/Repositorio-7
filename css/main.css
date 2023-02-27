@@ -110,6 +110,14 @@ ul {
 /* estilos de miguelguerra1907187 */
 #a18 {
     background-color: green;
+    color: chartreuse;
+    font-variant: small-caps;
+    
+}
+li#a18{
+    border: 2px solid black;
+    box-shadow: 10px 5px 5px gold;
+
 }
 /* fin de estilos de miguelguerra1907187 */
 
