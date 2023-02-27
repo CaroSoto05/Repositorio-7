@@ -32,6 +32,10 @@ ul {
 /* -------------------------------------------------------------------------------------------------- */
 #a3 {
     background-color: aqua;
+    color:black;
+    font-variant: small-caps;
+    border-radius: 15px;
+    text-shadow: -20px 0px 7px blue;
 }
 /* Fin de estilos de ClaudiaCalvillo */
 
