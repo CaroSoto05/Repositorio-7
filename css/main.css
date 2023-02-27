@@ -43,6 +43,7 @@ ul {
 #a4 {
     background-color: burlywood;
     border-radius: 15px;
+    font-variant: small-caps;
 }
 /* Fin estilos de stikermade */
 
@@ -65,10 +66,15 @@ ul {
 #a9 {
     background-color: red;
 }
+/* Estilos de EdduardoMarcelo */
+/* ---------------------------------------------------------------------- */
+#a10 { 
+    background-color: rgb(6, 146, 123);
+    font-size: smaller;
 
-#a10 {
-    background-color: red;
+
 }
+/* Fin de estilos de EdduardoMarcelo */
 
 /* Estilos de ZGMSzayel27Granz */
 /* ------------------------------------------------------------------------------- */
