@@ -46,7 +46,8 @@ ul {
     font-variant: small-caps;
 }
 
-#a4 a{ color: #01c38d;
+#a4 a{ color: rgba(255,255,255,1);
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #ff00de , 0 0 70px #ff00de , 0 0 80px #ff00de , 0 0 100px #ff00de ;
         font-variant: small-caps;
 }
 
@@ -88,6 +89,10 @@ ul {
 /* ------------------------------------------------------------------------------- */
 #a11 {
     background-color: rgb(190, 35, 152);
+    color: orangered;
+    font-variant: small-caps;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgb(224, 136, 136);
 }
 /* Fin de estilos de ZGMSzayel27Granz */
 /* --------------------------------------------------------------------------------- */
