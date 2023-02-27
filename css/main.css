@@ -191,9 +191,17 @@ li#a18{
     font-variant: small-caps;
 }
 /* FIN estilos de melhdz */
+
+/*Estilos de AlexanderJC*/
+/*---------------------------------------------------------------------------------------*/
 #a20 {
-    background-color: red;
+    background-color: rgb(22, 22, 22);
+    color: antiquewhite;
+    font-variant: small-caps;
+    border-radius: 10px;
+    border: #fff;
 }
+/*FIN estilos de AlexanderJC*/
 
 #a21  {
 /* Estilos de FabiolaMG1 */
