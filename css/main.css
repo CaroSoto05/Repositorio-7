@@ -28,9 +28,12 @@ ul {
     background-color: red;
 }
 
+/* Estilos de ClaudiaCalvillo */
+/* -------------------------------------------------------------------------------------------------- */
 #a3 {
     background-color: aqua;
 }
+/* Fin de estilos de ClaudiaCalvillo */
 
 /* Estilos de stikermade */
 /* ------------------------------------- */
@@ -95,10 +98,12 @@ ul {
     background-color: red;
 }
 
+/* Estilo de melhdz */
+/* --------------------------------------------------------------------------------------------------------------------------------- */
 #a19 {
     background-color: rgba(137, 43, 226, 0.84);
 }
-
+/* FIN estilos de melhdz */
 #a20 {
     background-color: rgb(179, 24, 210);
 }
@@ -118,11 +123,14 @@ ul {
 #a24 {
     background-color: red;
 }
-/* background-image: url("../../media/examples/lizard.png"); */
+
+/* Estilos de Jesus Valmiki */
+/* --------------------------------------------------------------------------------- */
 #a25 {
     background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg");
     /* background-color: red; */
 }
+/* Fin estilos de Jesus Valmiki */
 
 #a26 {
     background-color: yellow;
