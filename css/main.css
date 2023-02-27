@@ -24,9 +24,16 @@ ul {
     background-color: red;
 }
 
+/* Estilos de JonathanLTI */
 #a2 {
-    background-color: grey;
+    background-color: gold;
 }
+a[href*="JonathanLTI/index.html"] {
+    color: red;
+    font-size: large;
+}
+
+/* Fin de estilos de JonathanLTI */
 
 #a3 {
     background-color: red;
