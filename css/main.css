@@ -71,7 +71,7 @@ ul {
 /* ---------------------------------------------------------------------- */
 #a10 { 
     background-color: rgb(6, 146, 123);
-    font-size: smaller;
+    font-size: smaller; font-style: inherit;
 
 
 }
