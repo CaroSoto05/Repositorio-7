@@ -144,6 +144,11 @@ ul {
 /* --------------------------------------------------------------------------------- */
 #a25 {
     background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg");
+/* cambiar el color del texto del link (a) */
+}
+#a25 a{
+    color: rgb(237, 237, 10);
+    font-variant: small-caps;
 }
 
 
