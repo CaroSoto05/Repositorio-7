@@ -24,7 +24,6 @@ ul {
 /* -------------------------------------- */
 #a1 {
     background-color: aquamarine;
-    font-variant: small-caps;
 }
 
 /* FIN estilos de CesarArriaga23" */
@@ -52,8 +51,8 @@ a[href*="JonathanLTI"] {
 #a4 {
     background-color: burlywood;
     border-radius: 15px;
-    font-variant: small-caps; 
-    border: 2px solid black;
+    font-variant: small-caps;
+    font: normal 48px/normal "Warnes", Helvetica, sans-serif;
 }
 
 #a4 a{ color: rgba(255,255,255,1);
@@ -68,10 +67,8 @@ a[href*="JonathanLTI"] {
 #a5 {
     background-color:black;
 }
-/*Estilos de HugoCastillo394*/
-/*-------------------------------------------------------------------------------------------*/
 
-#a5 a{
+#a5 {
     color: ghostwhite;
 }
 /* Fin de estilos de ErickProg05 */
@@ -94,11 +91,12 @@ a[href*="JonathanLTI"] {
 /* Estilos de EdduardoMarcelo */
 /* ---------------------------------------------------------------------- */
 #a10 {
-    background-color: rgb(18, 230, 184);
-    font-size: smaller; font-style: inherit; font-family: monospace;
-    border: #03ff63; border-radius: 100px; border-color: #03ff63;
-
-
+    background-color: rgb(0, 255, 64) ;
+    font-size: 15px ; font-style: oblique ;
+    box-shadow: 7px 7px 7px rgb(0, 204, 255);
+}
+a[href*="EdduardoMarcelo"] {
+    color: #050404;
 }
 /* Fin de estilos de EdduardoMarcelo */
 
@@ -161,10 +159,6 @@ a[href*="JonathanLTI"] {
 #a17 {
     background-color: rgb(107, 6, 6);
 }
-
-#a17 a{
-    color: white;
-}
 /* FIN estilos de Erick4591 */
 
 /* --------------------------------------------------------------------------------------------------------------------- */
@@ -191,9 +185,17 @@ li#a18{
     font-variant: small-caps;
 }
 /* FIN estilos de melhdz */
+
+/*Estilos de AlexanderJC*/
+/*---------------------------------------------------------------------------------------*/
 #a20 {
-    background-color: red;
+    background-color: rgb(22, 22, 22);
+    color: antiquewhite;
+    font-variant: small-caps;
+    border-radius: 10px;
+    border: #fff;
 }
+/*FIN estilos de AlexanderJC*/
 
 #a21  {
 /* Estilos de FabiolaMG1 */
@@ -273,10 +275,13 @@ li#a18{
     background-color: red;
 }
 
+/* Estilo de danielsoto1612 */
 #a32 {
-    background-color: red;
+    background-color: rgb(134, 126, 126);
+    font-variant: small-caps;
 }
 
+/* Fin de estilos danielsoto1612 */
 #a33 {
     background-color: red;
 }
