@@ -49,12 +49,15 @@ ul {
 #a4 a{ color: #01c38d;
         font-variant: small-caps;
 }
+
 /* Fin estilos de stikermade */
 
+/* Estilos de ErickProg05
+------------------------------------- */
 #a5 {
-    background-color: rgb(11, 115, 146);
+    background-color:crimson;
 }
-
+/* Fin de estilos de ErickProg05 */
 #a6 {
     background-color: red;
 }
@@ -163,24 +166,26 @@ li#a18{
 #a23 {
     background-color: red;
 }
-
+/* Estilos de CarlosMorenoLti */
+/*-----------------------------------------------*/
 #a24 {
-    background-color: red;
-}
-
-/* Estilos de Jesus Valmiki */
-/* --------------------------------------------------------------------------------- */
-#a25 {
-    background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg");
-/* cambiar el color del texto del link (a) */
-}
-#a25 a{
-    color: rgb(237, 237, 10);
+    background-color: yellow;
     font-variant: small-caps;
 }
 
-
+/* Fin de estilos CarlosMorenoLTI */
+/* background-image: url("../../media/examples/lizard.png"); */
+#a25 {
+    /* background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg"); */
+    background: linear-gradient(90deg, #22c1c3, #fdbb2d);
+}
+#a25 a{
+    color: #fff;
+    font-variant: small-caps;
+}
 /* Fin estilos de Jesus Valmiki */
+
+
 
 /* Estilos brandios */
 #a26 {
