@@ -166,14 +166,17 @@ li#a18{
     background-color: red;
 }
 
-#a21 {
+#a21  {
 /* Estilos de FabiolaMG1 */
 /* ------------------------------------------------------------------------------------------ */
     background-color: palevioletred;
     font-variant: small-caps;
-    color: black;
-    border-color: black;
+
 }
+#a21 a {color: black;
+
+}
+
 /* Fin estilo FabiolaMG1 */
 
 #a22 {
