@@ -20,25 +20,37 @@ ul {
     text-decoration: none;
 }
 
+/* Estilos de CesarArriaga23 */
+/* -------------------------------------- */
 #a1 {
-    background-color: red;
+    background-color: aquamarine;
 }
 
+/* FIN estilos de CesarArriaga23" */
 #a2 {
     background-color: red;
 }
 
+/* Estilos de ClaudiaCalvillo */
+/* -------------------------------------------------------------------------------------------------- */
 #a3 {
     background-color: aqua;
 }
+/* Fin de estilos de ClaudiaCalvillo */
 
+/* Estilos de stikermade */
+/* ------------------------------------- */
 #a4 {
     background-color: burlywood;
+    border-radius: 15px;
 }
+
+/* Fin estilos de stikermade */
+
 /* Estilos de ErickProg05
------------------------------------------------ */
+------------------------------------- */
 #a5 {
-    background-color:lightsalmon;
+    background-color:crimson;
 }
 /* Fin de estilos de ErickProg05 */
 #a6 {
@@ -61,10 +73,13 @@ ul {
     background-color: red;
 }
 
+/* Estilos de ZGMSzayel27Granz */
+/* ------------------------------------------------------------------------------- */
 #a11 {
     background-color: rgb(190, 35, 152);
 }
-
+/* Fin de estilos de ZGMSzayel27Granz */
+/* --------------------------------------------------------------------------------- */
 #a12 {
     background-color: red;
 }
@@ -77,32 +92,43 @@ ul {
     background-color: red;
 }
 
+/* Estilo SamuelOGG
+--------------------------------------------------------------------- */
 #a15 {
-    background-color: red;
+    background-color: #01c38d;
+    border-radius: 15px;
 }
+/* Fin estilo SamuelOGG
+--------------------------------------------------------------------- */
+
 
 #a16 {
     background-color: red;
 }
 
+/* Estilos de Erick4591 */
+/* ------------------------------------- */
 #a17 {
     background-color: rgb(107, 6, 6);
 }
+/* FIN estilos de Erick4591 */
 
 #a18 {
     background-color: red;
 }
 
+/* Estilo de melhdz */
+/* --------------------------------------------------------------------------------------------------------------------------------- */
 #a19 {
     background-color: rgba(137, 43, 226, 0.84);
 }
-
+/* FIN estilos de melhdz */
 #a20 {
     background-color: rgb(179, 24, 210);
 }
 
 #a21 {
-    background-color: red;
+    background-color: palevioletred;
 }
 
 #a22 {
@@ -116,19 +142,28 @@ ul {
 #a24 {
     background-color: red;
 }
-/* background-image: url("../../media/examples/lizard.png"); */
+
+/* Estilos de Jesus Valmiki */
+/* --------------------------------------------------------------------------------- */
 #a25 {
     background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg");
-    /* background-color: red; */
 }
 
+
+/* Fin estilos de Jesus Valmiki */
+
+/* Estilos brandios */
 #a26 {
-    background-color: red;
+    background-color: yellow;
 }
+/*Fin estilos Brandios*/
 
+/* Estilos de adriantkm */
+/* ------------------------------------------------------------ */
 #a27 {
     background-color: gold;
 }
+/* Estilos de adriantkm */
 
 #a28 {
     background-color: red;
