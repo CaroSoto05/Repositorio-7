@@ -24,6 +24,7 @@ ul {
 /* -------------------------------------- */
 #a1 {
     background-color: aquamarine;
+    font-variant: small-caps;
 }
 
 /* FIN estilos de CesarArriaga23" */
@@ -44,6 +45,13 @@ a[href*="JonathanLTI/index.html"] {
 
 #a3 {
     background-color: aqua;
+    color:black;
+    font-variant: small-caps;
+    text-shadow: -20px 0px 7px blue;
+}
+li#a3 {
+    border-radius: 15px;
+    box-shadow: 8px 5px 5px aquamarine;
 }
 /* Fin de estilos de ClaudiaCalvillo */
 
@@ -65,6 +73,11 @@ a[href*="JonathanLTI/index.html"] {
 ------------------------------------- */
 #a5 {
     background-color:crimson;
+    font-variant: small-caps;
+}
+
+#a5 a{
+    color: gold;
 }
 /* Fin de estilos de ErickProg05 */
 #a6 {
@@ -114,8 +127,15 @@ a[href*="JonathanLTI/index.html"] {
 /* Estilo SamuelOGG
 --------------------------------------------------------------------- */
 #a15 {
-    background-color: #01c38d;
+    background-color: #191e29;
     border-radius: 15px;
+    box-shadow: 5px 5px 10px black;
+}
+
+#a15:hover{
+    background-color: #0861aa;
+    color: #191e29;
+    transition: ease-in .3s;
 }
 
 #a15 a{ color: aliceblue;
@@ -133,6 +153,12 @@ a[href*="JonathanLTI/index.html"] {
 /* ------------------------------------- */
 #a17 {
     background-color: rgb(107, 6, 6);
+    font-variant: small-caps;
+    
+}
+
+#a17 a{
+    color: white;
 }
 /* FIN estilos de Erick4591 */
 
@@ -154,11 +180,16 @@ li#a18{
 /* Estilo de melhdz */
 /* --------------------------------------------------------------------------------------------------------------------------------- */
 
-#a19 {
+#a19 a{
     background-color: rgba(137, 43, 226, 0.84);
-    color: aliceblue;
     font-variant: small-caps;
+    color: aliceblue;
 }
+
+li {
+    box-shadow: 10px 5px 5px black;
+}
+
 /* FIN estilos de melhdz */
 #a20 {
     background-color: rgb(179, 24, 210);
@@ -209,6 +240,7 @@ li#a18{
     background-color: gold;
     font-variant: small-caps;
     border-radius: 12px;
+    border: 3px solid black;
 }
 
 #a27 a{
