@@ -29,15 +29,15 @@ ul {
 }
 
 #a3 {
-    background-color: aqua;
+    background-color: red;
 }
 
 #a4 {
-    background-color: burlywood;
+    background-color: red;
 }
 
 #a5 {
-    background-color: rgb(11, 115, 146);
+    background-color: red;
 }
 
 #a6 {
@@ -85,7 +85,7 @@ ul {
 }
 
 #a17 {
-    background-color: rgb(107, 6, 6);
+    background-color: red;
 }
 
 #a18 {
@@ -93,16 +93,19 @@ ul {
 }
 
 #a19 {
-    background-color: rgba(137, 43, 226, 0.84);
+    background-color: red;
 }
 
 #a20 {
-    background-color: rgb(179, 24, 210);
+    background-color: red;
 }
 
 #a21 {
+/* Estilos de FabiolaMG1 */
+/* ------------------------------------------------------------------------------------------ */
     background-color: palevioletred;
 }
+/* Fin estilo FabiolaMG1 */
 
 #a22 {
     background-color: red;
@@ -117,8 +120,7 @@ ul {
 }
 /* background-image: url("../../media/examples/lizard.png"); */
 #a25 {
-    background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg");
-    /* background-color: red; */
+    background-color: red;
 }
 
 #a26 {
@@ -126,7 +128,7 @@ ul {
 }
 
 #a27 {
-    background-color: gold;
+    background-color: red;
 }
 
 #a28 {
