@@ -24,7 +24,9 @@ ul {
 /* -------------------------------------- */
 #a1 {
     background-color: aquamarine;
+    color:yellowgreen;
     font-variant: small-caps;
+    text-shadow: -20px 0px 7px red; 
 }
 
 /* FIN estilos de CesarArriaga23" */
