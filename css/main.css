@@ -28,9 +28,12 @@ ul {
     background-color: red;
 }
 
+/* Estilos de ClaudiaCalvillo */
+/* -------------------------------------------------------------------------------------------------- */
 #a3 {
     background-color: aqua;
 }
+/* Fin de estilos de ClaudiaCalvillo */
 
 /* Estilos de stikermade */
 /* ------------------------------------- */
@@ -67,10 +70,13 @@ ul {
 }
 /* Fin de estilos de EdduardoMarcelo */
 
+/* Estilos de ZGMSzayel27Granz */
+/* ------------------------------------------------------------------------------- */
 #a11 {
     background-color: rgb(190, 35, 152);
 }
-
+/* Fin de estilos de ZGMSzayel27Granz */
+/* --------------------------------------------------------------------------------- */
 #a12 {
     background-color: red;
 }
@@ -83,17 +89,26 @@ ul {
     background-color: red;
 }
 
+/* Estilo SamuelOGG
+--------------------------------------------------------------------- */
 #a15 {
-    background-color: red;
+    background-color: #01c38d;
+    border-radius: 15px;
 }
+/* Fin estilo SamuelOGG
+--------------------------------------------------------------------- */
+
 
 #a16 {
     background-color: red;
 }
 
+/* Estilos de Erick4591 */
+/* ------------------------------------- */
 #a17 {
     background-color: rgb(107, 6, 6);
 }
+/* FIN estilos de Erick4591 */
 
 #a18 {
     background-color: red;
@@ -124,22 +139,24 @@ ul {
 #a24 {
     background-color: red;
 }
-/* background-image: url("../../media/examples/lizard.png"); */
+
+/* Estilos de Jesus Valmiki */
+/* --------------------------------------------------------------------------------- */
 #a25 {
     background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg");
-    /* background-color: red; */
 }
+/* Fin estilos de Jesus Valmiki */
 
 #a26 {
     background-color: yellow;
 }
 
+/* Estilos de adriantkm */
+/* ------------------------------------------------------------ */
 #a27 {
-    /* Estilos de adriantkm */
-    /* ------------------------------------------------------------ */
     background-color: gold;
-    /* Estilos de adriantkm */
 }
+/* Estilos de adriantkm */
 
 #a28 {
     background-color: red;
