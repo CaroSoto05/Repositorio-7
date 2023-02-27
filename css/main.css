@@ -24,17 +24,34 @@ ul {
 /* -------------------------------------- */
 #a1 {
     background-color: aquamarine;
+    font-variant: small-caps;
 }
 
 /* FIN estilos de CesarArriaga23" */
+
+/* Estilos de JonathanLTI */
 #a2 {
-    background-color: red;
+    background-color: gold;
 }
+a[href*="JonathanLTI/index.html"] {
+    color: red;
+    font-size: large;
+}
+
+/* Fin de estilos de JonathanLTI */
 
 /* Estilos de ClaudiaCalvillo */
 /* -------------------------------------------------------------------------------------------------- */
+
 #a3 {
     background-color: aqua;
+    color:black;
+    font-variant: small-caps;
+    text-shadow: -20px 0px 7px blue;
+}
+li#a3 {
+    border-radius: 15px;
+    box-shadow: 8px 5px 5px aquamarine;
 }
 /* Fin de estilos de ClaudiaCalvillo */
 
@@ -44,6 +61,7 @@ ul {
     background-color: burlywood;
     border-radius: 15px;
     font-variant: small-caps;
+    border: 3px solid black;
 }
 
 #a4 a{ color: #01c38d;
@@ -110,8 +128,15 @@ ul {
 /* Estilo SamuelOGG
 --------------------------------------------------------------------- */
 #a15 {
-    background-color: #01c38d;
+    background-color: #191e29;
     border-radius: 15px;
+    box-shadow: 5px 5px 10px black;
+}
+
+#a15:hover{
+    background-color: #0861aa;
+    color: #191e29;
+    transition: ease-in .3s;
 }
 
 #a15 a{ color: aliceblue;
@@ -156,11 +181,16 @@ li#a18{
 /* Estilo de melhdz */
 /* --------------------------------------------------------------------------------------------------------------------------------- */
 
-#a19 {
+#a19 a{
     background-color: rgba(137, 43, 226, 0.84);
-    color: aliceblue;
     font-variant: small-caps;
+    color: aliceblue;
 }
+
+li#a19 {
+    box-shadow: 10px 5px 5px black;
+}
+
 /* FIN estilos de melhdz */
 #a20 {
     background-color: rgb(179, 24, 210);
@@ -211,6 +241,7 @@ li#a18{
     background-color: gold;
     font-variant: small-caps;
     border-radius: 12px;
+    border: 3px solid black;
 }
 
 #a27 a{
