@@ -57,7 +57,11 @@ ul {
 /* Estilos de ErickProg05
 ------------------------------------- */
 #a5 {
-    background-color:crimson;
+    background-color:black;
+}
+
+#a5 {
+    color: ghostwhite;
 }
 /* Fin de estilos de ErickProg05 */
 #a6 {
