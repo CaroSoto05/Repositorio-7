@@ -56,6 +56,11 @@ ul {
 ------------------------------------- */
 #a5 {
     background-color:crimson;
+    font-variant: small-caps;
+}
+
+#a5 a{
+    color: gold;
 }
 /* Fin de estilos de ErickProg05 */
 #a6 {
