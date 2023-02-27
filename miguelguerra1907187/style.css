@@ -29,13 +29,21 @@ section{
     padding: 2rem 3rem;
   }
 
-#listacompleta{
-    padding: 0px;
+  #listacompleta{
+    padding: 20px;
     border-radius: 20px;
     letter-spacing: 2px;
-}
-/* nav{
-    margin: 50%;
+    position: absolute;
+    top: 13%;
+    left: 40%;
+    border: solid 3px #fff;
+    border-radius: 25px;
+  }
 
-} */
+  a{
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 5px;
+  }
 
