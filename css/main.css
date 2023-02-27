@@ -45,10 +45,11 @@ ul {
     background-color: burlywood;
     border-radius: 15px;
     font-variant: small-caps; 
+    border: 2px solid black;
 }
 
 #a4 a{ color: rgba(255,255,255,1);
-    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #00ccff , 0 0 70px #00ccff , 0 0 80px #00ccff , 0 0 100px #00ccff ;
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #ff00de , 0 0 70px #ff00de , 0 0 80px #ff00de , 0 0 100px #ff00de ;
         font-variant: small-caps;
 }
 
@@ -114,6 +115,18 @@ ul {
 #a15 {
     background-color: #01c38d;
     border-radius: 15px;
+    box-shadow:  5px 5px 10px black;
+}
+
+#a15:hover{
+    background-color: #0861aa;
+    color: #191e29;
+    transition: ease-in .3s;
+    box-shadow: 5px 5px 10px #01c38d;
+}
+
+#a15:hover a{
+    color: #191e29;
 }
 
 #a15 a{ color: aliceblue;
@@ -131,6 +144,10 @@ ul {
 /* ------------------------------------- */
 #a17 {
     background-color: rgb(107, 6, 6);
+}
+
+#a17 a{
+    color: white;
 }
 /* FIN estilos de Erick4591 */
 
