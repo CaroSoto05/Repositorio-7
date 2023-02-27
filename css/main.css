@@ -128,11 +128,16 @@ ul {
 /* Estilo de melhdz */
 /* --------------------------------------------------------------------------------------------------------------------------------- */
 
-#a19 {
+#a19 a{
     background-color: rgba(137, 43, 226, 0.84);
-    color: aliceblue;
     font-variant: small-caps;
+    color: aliceblue;
 }
+
+li {
+    box-shadow: 10px 5px 5px black;
+}
+
 /* FIN estilos de melhdz */
 #a20 {
     background-color: rgb(179, 24, 210);
