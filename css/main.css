@@ -58,13 +58,20 @@ ul {
 /* Estilos de ErickProg05
 ------------------------------------- */
 #a5 {
-    background-color:crimson;
+    background-color:black;
+}
+/*Estilos de HugoCastillo394*/
+/*-------------------------------------------------------------------------------------------*/
+
+#a5 a{
+    color: ghostwhite;
 }
 /* Fin de estilos de ErickProg05 */
 #a6 {
-    background-color: red;
+    background-color: rgb(14, 250, 250);
+    font-variant: small-caps
 }
-
+/*FIN Estilos de HugoCastillo394*/
 #a7 {
     background-color: red;
 }
@@ -113,7 +120,7 @@ ul {
 /* Estilo SamuelOGG
 --------------------------------------------------------------------- */
 #a15 {
-    background-color: #01c38d;
+    background-color: #191e29;
     border-radius: 15px;
     box-shadow:  5px 5px 10px black;
 }
@@ -127,6 +134,7 @@ ul {
 
 #a15:hover a{
     color: #191e29;
+    transition: ease-in .3s;
 }
 
 #a15 a{ color: aliceblue;
@@ -176,12 +184,22 @@ li#a18{
 }
 /* FIN estilos de melhdz */
 #a20 {
-    background-color: rgb(179, 24, 210);
+    background-color: red;
 }
 
-#a21 {
+#a21  {
+/* Estilos de FabiolaMG1 */
+/* ------------------------------------------------------------------------------------------ */
     background-color: palevioletred;
+    font-variant: small-caps;
+    border-radius: 10px;
+
 }
+#a21 a {color: black;
+
+}
+
+/* Fin estilo FabiolaMG1 */
 
 #a22 {
     background-color: red;
