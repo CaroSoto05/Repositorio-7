@@ -102,6 +102,10 @@ ul {
     background-color: #01c38d;
     border-radius: 15px;
 }
+
+#a15 a{ color: aliceblue;
+    font-variant: small-caps;
+}
 /* Fin estilo SamuelOGG
 --------------------------------------------------------------------- */
 
@@ -183,6 +187,13 @@ li#a18{
 /* ------------------------------------------------------------ */
 #a27 {
     background-color: gold;
+    font-variant: small-caps;
+    border-radius: 12px;
+    color: whitesmoke;
+}
+
+#li27 {
+    color: whitesmoke;
 }
 /* Estilos de adriantkm */
 
