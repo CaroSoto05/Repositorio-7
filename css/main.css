@@ -43,8 +43,8 @@ ul {
 #a4 {
     background-color: burlywood;
     border-radius: 15px;
-    font-variant: small-caps;
     color: #01c38d;
+    font-variant: small-caps;
 }
 /* Fin estilos de stikermade */
 
@@ -138,8 +138,11 @@ li#a18{
 
 /* Estilo de melhdz */
 /* --------------------------------------------------------------------------------------------------------------------------------- */
+
 #a19 {
     background-color: rgba(137, 43, 226, 0.84);
+    color: aliceblue;
+    font-variant: small-caps;
 }
 /* FIN estilos de melhdz */
 #a20 {
@@ -189,7 +192,6 @@ li#a18{
     background-color: gold;
     font-variant: small-caps;
     border-radius: 12px;
-    color: whitesmoke;
 }
 
 #li27 {
