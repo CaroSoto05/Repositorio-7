@@ -28,13 +28,20 @@ ul {
     background-color: red;
 }
 
+/* Estilos de ClaudiaCalvillo */
+/* -------------------------------------------------------------------------------------------------- */
 #a3 {
     background-color: red;
 }
+/* Fin de estilos de ClaudiaCalvillo */
 
+/* Estilos de stikermade */
+/* ------------------------------------- */
 #a4 {
-    background-color: red;
+    background-color: burlywood;
+    border-radius: 15px;
 }
+/* Fin estilos de stikermade */
 
 #a5 {
     background-color: red;
@@ -60,10 +67,13 @@ ul {
     background-color: red;
 }
 
+/* Estilos de ZGMSzayel27Granz */
+/* ------------------------------------------------------------------------------- */
 #a11 {
     background-color: rgb(190, 35, 152);
 }
-
+/* Fin de estilos de ZGMSzayel27Granz */
+/* --------------------------------------------------------------------------------- */
 #a12 {
     background-color: red;
 }
@@ -76,26 +86,37 @@ ul {
     background-color: red;
 }
 
+/* Estilo SamuelOGG
+--------------------------------------------------------------------- */
 #a15 {
-    background-color: red;
+    background-color: #01c38d;
+    border-radius: 15px;
 }
+/* Fin estilo SamuelOGG
+--------------------------------------------------------------------- */
+
 
 #a16 {
     background-color: red;
 }
 
+/* Estilos de Erick4591 */
+/* ------------------------------------- */
 #a17 {
     background-color: red;
 }
+/* FIN estilos de Erick4591 */
 
 #a18 {
     background-color: red;
 }
 
+/* Estilo de melhdz */
+/* --------------------------------------------------------------------------------------------------------------------------------- */
 #a19 {
     background-color: red;
 }
-
+/* FIN estilos de melhdz */
 #a20 {
     background-color: red;
 }
@@ -104,6 +125,9 @@ ul {
 /* Estilos de FabiolaMG1 */
 /* ------------------------------------------------------------------------------------------ */
     background-color: palevioletred;
+    font-variant: small-caps;
+    color: black;
+    border-color: black;
 }
 /* Fin estilo FabiolaMG1 */
 
@@ -118,18 +142,24 @@ ul {
 #a24 {
     background-color: red;
 }
-/* background-image: url("../../media/examples/lizard.png"); */
+
+/* Estilos de Jesus Valmiki */
+/* --------------------------------------------------------------------------------- */
 #a25 {
-    background-color: red;
+    background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg");
 }
+/* Fin estilos de Jesus Valmiki */
 
 #a26 {
-    background-color: red;
+    background-color: yellow;
 }
 
+/* Estilos de adriantkm */
+/* ------------------------------------------------------------ */
 #a27 {
     background-color: red;
 }
+/* Estilos de adriantkm */
 
 #a28 {
     background-color: red;
