@@ -37,8 +37,11 @@ ul {
     background-color: aqua;
     color:black;
     font-variant: small-caps;
-    border-radius: 15px;
     text-shadow: -20px 0px 7px blue;
+}
+li#a3 {
+    border-radius: 15px;
+    box-shadow: 8px 5px 5px aquamarine;
 }
 /* Fin de estilos de ClaudiaCalvillo */
 
