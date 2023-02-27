@@ -184,12 +184,22 @@ li#a18{
 }
 /* FIN estilos de melhdz */
 #a20 {
-    background-color: rgb(179, 24, 210);
+    background-color: red;
 }
 
-#a21 {
+#a21  {
+/* Estilos de FabiolaMG1 */
+/* ------------------------------------------------------------------------------------------ */
     background-color: palevioletred;
+    font-variant: small-caps;
+    border-radius: 10px;
+
 }
+#a21 a {color: black;
+
+}
+
+/* Fin estilo FabiolaMG1 */
 
 #a22 {
     background-color: red;
