@@ -123,11 +123,14 @@ ul {
 #a24 {
     background-color: red;
 }
-/* background-image: url("../../media/examples/lizard.png"); */
+
+/* Estilos de Jesus Valmiki */
+/* --------------------------------------------------------------------------------- */
 #a25 {
     background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg");
     /* background-color: red; */
 }
+/* Fin estilos de Jesus Valmiki */
 
 #a26 {
     background-color: yellow;
