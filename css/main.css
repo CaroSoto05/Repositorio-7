@@ -27,9 +27,17 @@ ul {
 }
 
 /* FIN estilos de CesarArriaga23" */
+
+/* Estilos Jonathan */
 #a2 {
-    background-color: red;
+    background-color: gold;
 }
+a[href*="JonathanLTI"] {
+    color: red;
+    font-size: medium;
+    font-style: italic;
+}
+/* Fin Estilos Jonathan */
 
 /* Estilos de ClaudiaCalvillo */
 /* -------------------------------------------------------------------------------------------------- */
@@ -118,8 +126,21 @@ a[href*="EdduardoMarcelo"] {
 /* Estilo SamuelOGG
 --------------------------------------------------------------------- */
 #a15 {
-    background-color: #01c38d;
+    background-color: #191e29;
     border-radius: 15px;
+    box-shadow:  5px 5px 10px black;
+}
+
+#a15:hover{
+    background-color: #0861aa;
+    color: #191e29;
+    transition: ease-in .3s;
+    box-shadow: 5px 5px 10px #01c38d;
+}
+
+#a15:hover a{
+    color: #191e29;
+    transition: ease-in .3s;
 }
 
 #a15 a{ color: aliceblue;
