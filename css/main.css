@@ -97,8 +97,11 @@ ul {
 
 /* Estilo de melhdz */
 /* --------------------------------------------------------------------------------------------------------------------------------- */
+
 #a19 {
     background-color: rgba(137, 43, 226, 0.84);
+    color: aliceblue;
+    font-variant: small-caps;
 }
 /* FIN estilos de melhdz */
 #a20 {
