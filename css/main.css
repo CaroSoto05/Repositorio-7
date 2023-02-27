@@ -52,7 +52,7 @@ a[href*="JonathanLTI"] {
     background-color: burlywood;
     border-radius: 15px;
     font-variant: small-caps;
-    border: 2px solid black;
+    font: normal 48px/normal "Warnes", Helvetica, sans-serif;
 }
 
 #a4 a{ color: rgba(255,255,255,1);
@@ -92,8 +92,9 @@ a[href*="JonathanLTI"] {
 /* ---------------------------------------------------------------------- */
 #a10 {
     background-color: rgb(0, 255, 64) ;
-    font-size: 15px ; font-style: oblique ;
+    font-size: 14px ; font-style: oblique ; font-weight: bold; font-variant: small-caps;
     box-shadow: 7px 7px 7px rgb(0, 204, 255);
+    border-radius: 15px;
 }
 a[href*="EdduardoMarcelo"] {
     color: #050404;
@@ -159,10 +160,6 @@ a[href*="EdduardoMarcelo"] {
 #a17 {
     background-color: rgb(107, 6, 6);
 }
-
-#a17 a{
-    color: white;
-}
 /* FIN estilos de Erick4591 */
 
 /* --------------------------------------------------------------------------------------------------------------------- */
@@ -189,17 +186,9 @@ li#a18{
     font-variant: small-caps;
 }
 /* FIN estilos de melhdz */
-
-/*Estilos de AlexanderJC*/
-/*---------------------------------------------------------------------------------------*/
 #a20 {
-    background-color: rgb(22, 22, 22);
-    color: antiquewhite;
-    font-variant: small-caps;
-    border-radius: 10px;
-    border: #fff;
+    background-color: red;
 }
-/*FIN estilos de AlexanderJC*/
 
 #a21  {
 /* Estilos de FabiolaMG1 */
@@ -279,13 +268,10 @@ li#a18{
     background-color: red;
 }
 
-/* Estilo de danielsoto1612 */
 #a32 {
-    background-color: rgb(134, 126, 126);
-    font-variant: small-caps;
+    background-color: red;
 }
 
-/* Fin de estilos danielsoto1612 */
 #a33 {
     background-color: red;
 }
