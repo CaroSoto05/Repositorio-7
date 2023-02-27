@@ -134,6 +134,7 @@ ul {
 
 #a15:hover a{
     color: #191e29;
+    transition: ease-in .3s;
 }
 
 #a15 a{ color: aliceblue;
