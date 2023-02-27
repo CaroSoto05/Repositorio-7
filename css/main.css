@@ -44,6 +44,7 @@ ul {
     background-color: burlywood;
     border-radius: 15px;
     font-variant: small-caps; 
+    border: 2px solid black;
 }
 
 #a4 a{ color: rgba(255,255,255,1);
