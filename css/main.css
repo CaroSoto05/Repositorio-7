@@ -24,6 +24,7 @@ ul {
 /* -------------------------------------- */
 #a1 {
     background-color: aquamarine;
+    font-variant: small-caps;
 }
 
 /* FIN estilos de CesarArriaga23" */
@@ -35,6 +36,13 @@ ul {
 /* -------------------------------------------------------------------------------------------------- */
 #a3 {
     background-color: aqua;
+    color:black;
+    font-variant: small-caps;
+    text-shadow: -20px 0px 7px blue;
+}
+li#a3 {
+    border-radius: 15px;
+    box-shadow: 8px 5px 5px aquamarine;
 }
 /* Fin de estilos de ClaudiaCalvillo */
 
@@ -44,14 +52,25 @@ ul {
     background-color: burlywood;
     border-radius: 15px;
     font-variant: small-caps;
-    color: #01c38d;
 }
+
+#a4 a{ color: #01c38d;
+        font-variant: small-caps;
+}
+
 /* Fin estilos de stikermade */
 
+/* Estilos de ErickProg05
+------------------------------------- */
 #a5 {
-    background-color: rgb(11, 115, 146);
+    background-color:crimson;
+    font-variant: small-caps;
 }
 
+#a5 a{
+    color: gold;
+}
+/* Fin de estilos de ErickProg05 */
 #a6 {
     background-color: red;
 }
@@ -69,9 +88,9 @@ ul {
 }
 /* Estilos de EdduardoMarcelo */
 /* ---------------------------------------------------------------------- */
-#a10 { 
+#a10 {
     background-color: rgb(6, 146, 123);
-    font-size: smaller; font-style: inherit;
+    font-size: smaller; font-style: inherit; 
 
 
 }
@@ -125,17 +144,37 @@ ul {
 /* ------------------------------------- */
 #a17 {
     background-color: rgb(107, 6, 6);
+    font-variant: small-caps;
+    
+}
+
+#a17 a{
+    color: white;
 }
 /* FIN estilos de Erick4591 */
 
+/* --------------------------------------------------------------------------------------------------------------------- */
+/* estilos de miguelguerra1907187 */
 #a18 {
-    background-color: red;
+    background-color: green;
+    color: chartreuse;
+    font-variant: small-caps;
+    
 }
+li#a18{
+    border: 2px solid black;
+    box-shadow: 10px 5px 5px gold;
+
+}
+/* fin de estilos de miguelguerra1907187 */
 
 /* Estilo de melhdz */
 /* --------------------------------------------------------------------------------------------------------------------------------- */
+
 #a19 {
     background-color: rgba(137, 43, 226, 0.84);
+    color: aliceblue;
+    font-variant: small-caps;
 }
 /* FIN estilos de melhdz */
 #a20 {
@@ -153,24 +192,26 @@ ul {
 #a23 {
     background-color: red;
 }
-
+/* Estilos de CarlosMorenoLti */
+/*-----------------------------------------------*/
 #a24 {
-    background-color: red;
-}
-
-/* Estilos de Jesus Valmiki */
-/* --------------------------------------------------------------------------------- */
-#a25 {
-    background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg");
-/* cambiar el color del texto del link (a) */
-}
-#a25 a{
-    color: rgb(237, 237, 10);
+    background-color: yellow;
     font-variant: small-caps;
 }
 
-
+/* Fin de estilos CarlosMorenoLTI */
+/* background-image: url("../../media/examples/lizard.png"); */
+#a25 {
+    /* background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg"); */
+    background: linear-gradient(90deg, #22c1c3, #fdbb2d);
+}
+#a25 a{
+    color: #fff;
+    font-variant: small-caps;
+}
 /* Fin estilos de Jesus Valmiki */
+
+
 
 /* Estilos brandios */
 #a26 {
@@ -183,6 +224,13 @@ ul {
 /* ------------------------------------------------------------ */
 #a27 {
     background-color: gold;
+    font-variant: small-caps;
+    border-radius: 12px;
+    border: 3px solid black;
+}
+
+#a27 a{
+    color: whitesmoke; 
 }
 /* Estilos de adriantkm */
 
