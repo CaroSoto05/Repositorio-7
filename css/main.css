@@ -28,12 +28,21 @@ ul {
 }
 
 /* FIN estilos de CesarArriaga23" */
+
+/* Estilos de JonathanLTI */
 #a2 {
-    background-color: red;
+    background-color: gold;
 }
+a[href*="JonathanLTI/index.html"] {
+    color: red;
+    font-size: large;
+}
+
+/* Fin de estilos de JonathanLTI */
 
 /* Estilos de ClaudiaCalvillo */
 /* -------------------------------------------------------------------------------------------------- */
+
 #a3 {
     background-color: aqua;
     color:black;
@@ -52,6 +61,7 @@ li#a3 {
     background-color: burlywood;
     border-radius: 15px;
     font-variant: small-caps;
+    border: 3px solid black;
 }
 
 #a4 a{ color: #01c38d;
@@ -181,7 +191,7 @@ li#a18{
     color: aliceblue;
 }
 
-li {
+li#a19 {
     box-shadow: 10px 5px 5px black;
 }
 
