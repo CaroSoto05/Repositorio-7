@@ -28,12 +28,21 @@ ul {
 }
 
 /* FIN estilos de CesarArriaga23" */
+
+/* Estilos de JonathanLTI */
 #a2 {
-    background-color: red;
+    background-color: gold;
 }
+a[href*="JonathanLTI/index.html"] {
+    color: red;
+    font-size: large;
+}
+
+/* Fin de estilos de JonathanLTI */
 
 /* Estilos de ClaudiaCalvillo */
 /* -------------------------------------------------------------------------------------------------- */
+
 #a3 {
     background-color: aqua;
     color:black;
@@ -119,8 +128,15 @@ li#a3 {
 /* Estilo SamuelOGG
 --------------------------------------------------------------------- */
 #a15 {
-    background-color: #01c38d;
+    background-color: #191e29;
     border-radius: 15px;
+    box-shadow: 5px 5px 10px black;
+}
+
+#a15:hover{
+    background-color: #0861aa;
+    color: #191e29;
+    transition: ease-in .3s;
 }
 
 #a15 a{ color: aliceblue;
@@ -165,11 +181,16 @@ li#a18{
 /* Estilo de melhdz */
 /* --------------------------------------------------------------------------------------------------------------------------------- */
 
-#a19 {
+#a19 a{
     background-color: rgba(137, 43, 226, 0.84);
-    color: aliceblue;
     font-variant: small-caps;
+    color: aliceblue;
 }
+
+li {
+    box-shadow: 10px 5px 5px black;
+}
+
 /* FIN estilos de melhdz */
 #a20 {
     background-color: rgb(179, 24, 210);
