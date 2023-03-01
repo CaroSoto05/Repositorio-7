@@ -190,8 +190,9 @@ li#a18{
 
 #a19 {
     background-color: rgba(137, 43, 226, 0.84);
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     font-variant: small-caps;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.66);
 }
 /* FIN estilos de melhdz */
 #a20 {
@@ -285,7 +286,11 @@ li#a18{
     background-color: red;
 }
 
+/* Estilos de LIIgabriel */
+/* ---------------------------------------------------------------- */
 #a34 {
-    background-color: red;
+    background-color: blue;
 }
+/* FIN estilos de LIIgabriel */
+
 
