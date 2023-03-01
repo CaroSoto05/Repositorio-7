@@ -24,7 +24,6 @@ ul {
 /* -------------------------------------- */
 #a1 {
     background-color: aquamarine;
-    font-variant: small-caps;
 }
 
 /* FIN estilos de CesarArriaga23" */
@@ -68,10 +67,8 @@ a[href*="JonathanLTI"] {
 #a5 {
     background-color:black;
 }
-/*Estilos de HugoCastillo394*/
-/*-------------------------------------------------------------------------------------------*/
 
-#a5 a{
+#a5 {
     color: ghostwhite;
 }
 /* Fin de estilos de ErickProg05 */
@@ -94,11 +91,13 @@ a[href*="JonathanLTI"] {
 /* Estilos de EdduardoMarcelo */
 /* ---------------------------------------------------------------------- */
 #a10 {
-    background-color: rgb(18, 230, 184);
-    font-size: smaller; font-style: inherit; font-family: monospace;
-    border: #03ff63; border-radius: 100px; border-color: #03ff63;
-
-
+    background-color: rgb(0, 255, 64) ;
+    font-size: 14px ; font-style: oblique ; font-weight: bold; font-variant: small-caps;
+    box-shadow: 7px 7px 7px rgb(7, 197, 245);
+    border-radius: 15px;
+}
+a[href*="EdduardoMarcelo"] {
+    color: #050404;
 }
 /* Fin de estilos de EdduardoMarcelo */
 
@@ -116,10 +115,12 @@ a[href*="JonathanLTI"] {
 #a12 {
     background-color: red;
 }
-
+/* Estilos de Arturo2079080 */
 #a13 {
-    background-color: red;
+    background-color: rgb(255, 197, 23);
+    color: aqua;
 }
+/* Fin de estilos de Arturo2079080 */
 
 #a14 {
     background-color: red;
@@ -157,9 +158,11 @@ a[href*="JonathanLTI"] {
 }
 
 /* Estilos de Erick4591 */
-/* ------------------------------------- */
+/* ------------------------------------------------------------------- */
 #a17 {
     background-color: rgb(107, 6, 6);
+    font-variant: small-caps;
+    border-radius: 15px;
 }
 
 #a17 a{
