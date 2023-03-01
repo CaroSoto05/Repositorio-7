@@ -52,7 +52,6 @@ a[href*="JonathanLTI"] {
     background-color: burlywood;
     border-radius: 15px;
     font-variant: small-caps;
-    font: normal 48px/normal "Warnes", Helvetica, sans-serif;
 }
 
 #a4 a{ color: rgba(255,255,255,1);
@@ -115,10 +114,12 @@ a[href*="EdduardoMarcelo"] {
 #a12 {
     background-color: red;
 }
-
+/* Estilos de Arturo2079080 */
 #a13 {
-    background-color: red;
+    background-color: rgb(255, 197, 23);
+    color: aqua;
 }
+/* Fin de estilos de Arturo2079080 */
 
 #a14 {
     background-color: red;
@@ -157,9 +158,15 @@ a[href*="EdduardoMarcelo"] {
 }
 
 /* Estilos de Erick4591 */
-/* ------------------------------------- */
+/* ------------------------------------------------------------------- */
 #a17 {
     background-color: rgb(107, 6, 6);
+    font-variant: small-caps;
+    border-radius: 15px;
+}
+
+#a17 a{
+    color: white;
 }
 /* FIN estilos de Erick4591 */
 
