@@ -133,7 +133,7 @@ a[href*="EdduardoMarcelo"] {
 }
 
 #a15:hover{
-    background-color: #0861aa;
+    background-color: #1d83d6;
     color: #191e29;
     transition: ease-in .3s;
     box-shadow: 5px 5px 10px #01c38d;
@@ -144,7 +144,8 @@ a[href*="EdduardoMarcelo"] {
     transition: ease-in .3s;
 }
 
-#a15 a{ color: aliceblue;
+#a15 a{ 
+    color: aliceblue;
     font-variant: small-caps;
 }
 /* Fin estilo SamuelOGG
