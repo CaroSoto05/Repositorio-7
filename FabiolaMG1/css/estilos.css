@@ -60,3 +60,14 @@ a:hover {
 #lista-2 li:nth-child(even){
     background-color: blanchedalmond;
 }
+
+/* cambiar el tamaño de la primera letra de todos los parrafos de la pagina */
+
+p::first-letter {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+p::first-line {
+    background-color: darkorchid;
+}
