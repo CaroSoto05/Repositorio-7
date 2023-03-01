@@ -162,13 +162,14 @@ a[href*="EdduardoMarcelo"] {
 /* Estilos de Erick4591 */
 /* ------------------------------------------------------------------- */
 #a17 {
-    background-color: rgb(107, 6, 6);
+    background-color: black;
     font-variant: small-caps;
     border-radius: 15px;
+    border: 2px solid yellow;
 }
 
 #a17 a{
-    color: white;
+    color: yellow;
 }
 /* FIN estilos de Erick4591 */
 
