@@ -65,9 +65,10 @@ a[href*="JonathanLTI"] {
 ------------------------------------- */
 #a5 {
     background-color:black;
+    font-variant: small-caps;
 }
 
-#a5 {
+#a5 a{
     color: ghostwhite;
 }
 /* Fin de estilos de ErickProg05 */
@@ -190,8 +191,9 @@ li#a18{
 
 #a19 {
     background-color: rgba(137, 43, 226, 0.84);
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     font-variant: small-caps;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.66);
 }
 /* FIN estilos de melhdz */
 #a20 {
@@ -232,7 +234,8 @@ li#a18{
     /* background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg"); */
     background: linear-gradient(90deg, #22c1c3, #fdbb2d);
 }
-#a25 a{
+#a25 a:hover{
+    font-size: 20px;
     color: #fff;
     font-variant: small-caps;
 }
@@ -250,7 +253,7 @@ li#a18{
 /* Estilos de adriantkm */
 /* ------------------------------------------------------------ */
 #a27 {
-    background-color: gold;
+    background-color: peru;
     font-variant: small-caps;
     border-radius: 12px;
 }
@@ -286,7 +289,11 @@ li#a18{
     background-color: red;
 }
 
+/* Estilos de LIIgabriel */
+/* ---------------------------------------------------------------- */
 #a34 {
-    background-color: red;
+    background-color: blue;
 }
+/* FIN estilos de LIIgabriel */
+
 
