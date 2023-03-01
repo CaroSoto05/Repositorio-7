@@ -31,7 +31,7 @@ a:hover{
 }
 /* aplicar estilo al noveno elemento */
 #Lista_1 li:nth-child(9){
-    border: 1px solid black;
+    border: 2px solid black;
 }
 #Lista_1 li:nth-child(5n){
     border: 4px solid lightblue;
