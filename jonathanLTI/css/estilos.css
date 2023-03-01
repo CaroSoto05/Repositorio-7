@@ -1,0 +1,66 @@
+/* cambiar color a las secciones cuando el puntero pase sobre el elemento */
+
+section:hover, article:hover {
+    background-color: red;
+}
+
+p:hover {
+    font-size: 18px;
+    font-variant: small-caps;
+}
+
+a {
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 4px;
+}
+
+a:hover {
+    background-color: goldenrod;
+}
+
+/* aplicar un estilo al primer elemento de la lista 1 */
+#lista1 li:first-child {
+    border-top: 3px dotted black;
+    color: aliceblue;
+}
+
+/* aplicar un estilo al ultimo elemento */
+#lista1 li:last-child {
+    background-color: gold;
+    border-bottom: 5px dotted black;
+}
+
+/* aplicar estilo al 9 elemento */
+#lista1 li:nth-child(9) {
+    background-color: gold;
+    color: black;
+    border: 1px red;
+    border-radius: 4px;
+}
+
+/* aplicar estilo cada 6 items */
+#lista1 li:nth-child(6n) {
+    border-bottom: 4px black;
+}
+
+/* poner estilo a lo elementos impares */ /* odd=impar / even=par */
+#lista2 li:nth-child(odd) {
+    background-color: gray;
+}
+
+/* estilo a los pares */
+#lista2 li:nth-child(even) {
+    background-color: gold;
+}
+
+/* cambia el tamaño de la primera letra de todos los parrafos */
+p::first-letter {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+p::first-line {
+    background-color: red;
+}
