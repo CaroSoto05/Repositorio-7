@@ -65,6 +65,7 @@ a[href*="JonathanLTI"] {
 ------------------------------------- */
 #a5 {
     background-color:black;
+    font-variant: small-caps;
 }
 
 #a5 a{
