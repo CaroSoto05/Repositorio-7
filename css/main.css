@@ -261,7 +261,9 @@ li#a18{
 /* Estilos de adriantkm */
 
 #a28 {
-    background-color: red;
+    color: black;
+    background-color: green;
+    font-variant: small-caps;
 }
 
 #a29 {
