@@ -233,7 +233,8 @@ li#a18{
     /* background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg"); */
     background: linear-gradient(90deg, #22c1c3, #fdbb2d);
 }
-#a25 a{
+#a25 a:hover{
+    font-size: 20px;
     color: #fff;
     font-variant: small-caps;
 }
