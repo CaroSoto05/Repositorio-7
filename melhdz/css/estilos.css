@@ -1,7 +1,10 @@
+/*  . clase
+    : pseudo-clase
+    :: pseudo-elementos
+*/
 
 /* cambiar color a las secciones cuando el puntero del mouse pase sobre 
 el elemento HOVER*/
-
 section:hover {
     background-color: darkorange;
 }
@@ -57,4 +60,15 @@ a:hover {
 /* poner estilo a los elementos pares EVEN */
 #lista-2 li:nth-child(even) {
     background-color: fuchsia;
+}
+
+/* cambiar el tamaño de la primera letra de todos los parrafos 
+de la pagina */
+p::first-letter {
+    font-size: 100 px;
+    font-weight: bold;
+}
+
+p::first-line {
+    background-color: blueviolet;
 }
