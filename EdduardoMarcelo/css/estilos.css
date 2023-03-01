@@ -57,3 +57,14 @@ a:hover {
 #lista-2 li:nth-child(even){
     background-color: royalblue;
 }
+
+/* Cambiar el tamaño de la primer letra de todos los párrafos de la página */
+
+p::first-letter {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+p::first-line {
+    background-color: peru;
+}
