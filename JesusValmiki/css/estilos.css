@@ -1,0 +1,58 @@
+/* Cambiar color a las secciones cuando el puntero del mouse pase sobre el elemento */
+
+section:hover{
+    background-color: darkred;
+}
+
+p:hover{
+    font-size: 20px;
+    font-variant: small-caps;
+}
+
+
+a{
+    text-decoration: none;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+a:hover{
+    background-color: royalblue;
+    color:aliceblue;
+}
+
+
+/* Aplicar un estilo al primer elemento de la lista uno */
+
+#lista1 li:first-child{
+    border: 3px dotted #000;
+    color: blue;
+}
+
+/* Aplicar estilo ultimo elemento de la lista uno */
+#lista1 li:last-child{
+    border-bottom: 3px dotted #000;
+    background-color: aquamarine;
+}
+
+/* Aplicar estilo al noveno elemento */
+#lista1 li:nth-child(9){
+    border: 1px solid #000;
+    border-radius: 3px;
+}
+
+/* Aplicar estilo cada 5 items */
+#lista1 li:nth-child(5n){
+    border-bottom: 4px dotted gray;
+}
+
+/* Poner estilo a los elemento impares */
+#lista2 li:nth-child(odd){
+    background-color: #888;
+}
+
+/* Poner estilo a los elemento pares */
+#lista2 li:nth-child(even){
+    background-color: yellow;
+}
