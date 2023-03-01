@@ -53,6 +53,15 @@ a:hover {
     background-color: yellowgreen;
 }
 
+/* Cambiar el tamaño de la primer letra de todos los perrafos de la pagina */
+p::first-letter {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+p::first-line {
+    background-color: peru;
+}
 
 
 
