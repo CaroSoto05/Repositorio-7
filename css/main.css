@@ -24,13 +24,20 @@ ul {
 /* -------------------------------------- */
 #a1 {
     background-color: aquamarine;
-    font-variant: small-caps;
 }
 
 /* FIN estilos de CesarArriaga23" */
+
+/* Estilos Jonathan */
 #a2 {
-    background-color: red;
+    background-color: gold;
 }
+a[href*="JonathanLTI"] {
+    color: red;
+    font-size: medium;
+    font-style: italic;
+}
+/* Fin Estilos Jonathan */
 
 /* Estilos de ClaudiaCalvillo */
 /* -------------------------------------------------------------------------------------------------- */
@@ -44,7 +51,7 @@ ul {
 #a4 {
     background-color: burlywood;
     border-radius: 15px;
-    font-variant: small-caps; 
+    font-variant: small-caps;
     border: 2px solid black;
 }
 
@@ -58,13 +65,19 @@ ul {
 /* Estilos de ErickProg05
 ------------------------------------- */
 #a5 {
-    background-color:crimson;
+    background-color:black;
+    font-variant: small-caps;
+}
+
+#a5 a{
+    color: ghostwhite;
 }
 /* Fin de estilos de ErickProg05 */
 #a6 {
-    background-color: red;
+    background-color: rgb(14, 250, 250);
+    font-variant: small-caps
 }
-
+/*FIN Estilos de HugoCastillo394*/
 #a7 {
     background-color: red;
 }
@@ -79,11 +92,13 @@ ul {
 /* Estilos de EdduardoMarcelo */
 /* ---------------------------------------------------------------------- */
 #a10 {
-    background-color: rgb(18, 230, 184);
-    font-size: smaller; font-style: inherit; font-family: monospace;
-    border: #03ff63; border-radius: 100px; border-color: #03ff63;
-
-
+    background-color: rgb(0, 255, 64) ;
+    font-size: 14px ; font-style: oblique ; font-weight: bold; font-variant: small-caps;
+    box-shadow: 7px 7px 7px rgb(7, 197, 245);
+    border-radius: 15px;
+}
+a[href*="EdduardoMarcelo"] {
+    color: #050404;
 }
 /* Fin de estilos de EdduardoMarcelo */
 
@@ -101,10 +116,12 @@ ul {
 #a12 {
     background-color: red;
 }
-
+/* Estilos de Arturo2079080 */
 #a13 {
-    background-color: red;
+    background-color: rgb(255, 197, 23);
+    color: aqua;
 }
+/* Fin de estilos de Arturo2079080 */
 
 #a14 {
     background-color: red;
@@ -113,13 +130,13 @@ ul {
 /* Estilo SamuelOGG
 --------------------------------------------------------------------- */
 #a15 {
-    background-color: #01c38d;
+    background-color: #191e29;
     border-radius: 15px;
     box-shadow:  5px 5px 10px black;
 }
 
 #a15:hover{
-    background-color: #0861aa;
+    background-color: #1d83d6;
     color: #191e29;
     transition: ease-in .3s;
     box-shadow: 5px 5px 10px #01c38d;
@@ -127,9 +144,11 @@ ul {
 
 #a15:hover a{
     color: #191e29;
+    transition: ease-in .3s;
 }
 
-#a15 a{ color: aliceblue;
+#a15 a{ 
+    color: aliceblue;
     font-variant: small-caps;
 }
 /* Fin estilo SamuelOGG
@@ -141,9 +160,11 @@ ul {
 }
 
 /* Estilos de Erick4591 */
-/* ------------------------------------- */
+/* ------------------------------------------------------------------- */
 #a17 {
     background-color: rgb(107, 6, 6);
+    font-variant: small-caps;
+    border-radius: 15px;
 }
 
 #a17 a{
@@ -171,17 +192,28 @@ li#a18{
 
 #a19 {
     background-color: rgba(137, 43, 226, 0.84);
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     font-variant: small-caps;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.66);
 }
 /* FIN estilos de melhdz */
 #a20 {
-    background-color: rgb(179, 24, 210);
+    background-color: red;
 }
 
-#a21 {
+#a21  {
+/* Estilos de FabiolaMG1 */
+/* ------------------------------------------------------------------------------------------ */
     background-color: palevioletred;
+    font-variant: small-caps;
+    border-radius: 10px;
+
 }
+#a21 a {color: black;
+
+}
+
+/* Fin estilo FabiolaMG1 */
 
 #a22 {
     background-color: red;
@@ -203,7 +235,8 @@ li#a18{
     /* background-image: url("https://estaticos-cdn.elperiodico.com/clip/eef518d1-0495-4645-8a7b-deb3ac54a7e4_alta-libre-aspect-ratio_default_0.jpg"); */
     background: linear-gradient(90deg, #22c1c3, #fdbb2d);
 }
-#a25 a{
+#a25 a:hover{
+    font-size: 20px;
     color: #fff;
     font-variant: small-caps;
 }
@@ -221,7 +254,7 @@ li#a18{
 /* Estilos de adriantkm */
 /* ------------------------------------------------------------ */
 #a27 {
-    background-color: gold;
+    background-color: peru;
     font-variant: small-caps;
     border-radius: 12px;
 }
@@ -232,7 +265,9 @@ li#a18{
 /* Estilos de adriantkm */
 
 #a28 {
-    background-color: red;
+    color: black;
+    background-color: green;
+    font-variant: small-caps;
 }
 
 #a29 {
@@ -255,7 +290,11 @@ li#a18{
     background-color: red;
 }
 
+/* Estilos de LIIgabriel */
+/* ---------------------------------------------------------------- */
 #a34 {
-    background-color: red;
+    background-color: blue;
 }
+/* FIN estilos de LIIgabriel */
+
 
