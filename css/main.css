@@ -52,6 +52,7 @@ a[href*="JonathanLTI"] {
     background-color: burlywood;
     border-radius: 15px;
     font-variant: small-caps;
+    border: 2px solid black;
 }
 
 #a4 a{ color: rgba(255,255,255,1);
@@ -65,9 +66,10 @@ a[href*="JonathanLTI"] {
 ------------------------------------- */
 #a5 {
     background-color:black;
+    font-variant: small-caps;
 }
 
-#a5 {
+#a5 a{
     color: ghostwhite;
 }
 /* Fin de estilos de ErickProg05 */
@@ -160,13 +162,14 @@ a[href*="EdduardoMarcelo"] {
 /* Estilos de Erick4591 */
 /* ------------------------------------------------------------------- */
 #a17 {
-    background-color: rgb(107, 6, 6);
+    background-color: black;
     font-variant: small-caps;
     border-radius: 15px;
+    border: 2px solid yellow;
 }
 
 #a17 a{
-    color: white;
+    color: yellow;
 }
 /* FIN estilos de Erick4591 */
 
@@ -252,7 +255,7 @@ li#a18{
 /* Estilos de adriantkm */
 /* ------------------------------------------------------------ */
 #a27 {
-    background-color: gold;
+    background-color: peru;
     font-variant: small-caps;
     border-radius: 12px;
 }
@@ -263,7 +266,9 @@ li#a18{
 /* Estilos de adriantkm */
 
 #a28 {
-    background-color: red;
+    color: black;
+    background-color: green;
+    font-variant: small-caps;
 }
 
 #a29 {

@@ -1,16 +1,13 @@
-
-/* cambiar color a las secciones cuando el punto del mouse pase sobre el elemento */
+/* cambiar color a las secciones cuando el punto del mouse para el
+elemento */
 
 section:hover {
     background-color: darkorange;
 }
-
-
 p:hover {
     font-size: 18px;
     font-variant: small-caps;
 }
-
 a {
     text-decoration: none;
     border: 1px solid black;
@@ -23,47 +20,40 @@ a:hover{
     color: white;
 }
 
-
-/* Aplicar un estilo al primer elemento de la lista-1 */
-
+/* Aplicar un estilo al primer elemento a la lista-1 */
 #lista-1 li:first-child {
     border-top: 3px dotted black;
     color: blue;
 }
 
-/* Aplicar estilo ultimo elemento de la lista-1 */
-
+/* Aplicar estilo ultimo elemneto de la lista-1 */
 #lista-1 li:last-child {
     background-color: aquamarine;
     border-bottom: 3px dotted black;
 }
 
-/* Estilo al noveno elemento  */
-
+/* aplicar estilo al noveno elemnto */
 #lista-1 li:nth-child(9) {
     border: 1px solid black;
     border-radius: 3px;
 }
 
-/* Aplicar estilo cada 5 items */
-
+/* aplicar estilos cada 5 items */
 #lista-1 li:nth-child(5n) {
-    border-bottom:  4px dotted gray;
+    border-bottom: 4px dotted gray;
 }
 
-/* Poner estilo a los elementos impares odd */
-
+/* poner estilo a los elementos impares */
 #lista-2 li:nth-child(odd) {
     background-color: gainsboro;
 }
-
-/* Poner estilo a los elementos pares even */
-
-#lista-2 li:nth-child(even) {
+/* poner estilos a los elementos pares even*/
+#lista-2 li:nth-child(even){
     background-color: yellow;
+    
 }
-
-/* Cambiar el tamaño de la primer letra de todos los parrafos de la pagina */
+/* cambiar el tamaño de la primer letra de todos los parrafos
+de la pagina */
 
 p::first-letter {
     font-size: 100px;
