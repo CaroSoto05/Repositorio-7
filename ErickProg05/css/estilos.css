@@ -1,9 +1,8 @@
 
-/* cambiar color a las secciones cuando el puntero del mouse pase sobre el
-elemento */
+/* cambiar color a las secciones cuando el puntero del mouse pase sobre el elemento */
 
 section:hover {
-    background-color: darkorange;
+    background-color:gold
 }
 
 p:hover {
@@ -19,7 +18,7 @@ a {
 }
 
 a:hover{
-    background-color: brown;
+    background-color:brown;
     color:white;
 }
 
@@ -31,50 +30,36 @@ a:hover{
     color: blue;
 }
 
-/* aplicar estilo ultimo elemento de la lista-1 */
+/* Aplicar estilo ultimo elemento de la lista-1 */
 #lista-1 li:last-child {
-    background-color: aquamarine;
+    background-color:aqua;
     border-bottom: 3px dotted black;
 }
 
-/* aplicar estilo al noveno elemento */
+/* Aplicar estilo al noveno elemento */
 #lista-1 li:nth-child(9) {
     border: 1px solid black;
     border-radius: 3px;
 }
 
-/* aplicar estilo cada 5 items */
+/* Aplicar estilo cada 5 items */
 #lista-1 li:nth-child(5n) {
     border-bottom: 4px dotted gray;
 }
 
-/* poner estilo a los elementos impares   odd  */ 
+/* Poner estilo a los elementos impares odd */
 #lista-2 li:nth-child(odd){
-    background-color: gainsboro;
+    background-color:gainsboro;
 }
 
-/* poner estilo a los elementos pares even */
-.examen #lista-2 li:nth-child(even){
-    background-color: yellow;    
+/* Poner estilo a los elementos pares even */
+#lista-2 li:nth-child(even) {
+    background-color:yellow;
 }
 
-/* Cambiar el tamaño de la primer letra de todos los parrafos
-de la pagina */
+/* Cambiar el tamaño de la primer letra de todos los parrafos de la pagina */
 
 p::first-letter {
     font-size: 100px;
     font-weight: bold;
 }
-
-p::first-line {
-    background-color: peru;
-}
-
-
-
-
-
-
-
-
-
