@@ -92,9 +92,9 @@ a[href*="JonathanLTI"] {
 /* Estilos de EdduardoMarcelo */
 /* ---------------------------------------------------------------------- */
 #a10 {
-    background-color: rgb(0, 255, 64) ;
+    background-color: rgb(63, 253, 158) ;
     font-size: 14px ; font-style: oblique ; font-weight: bold; font-variant: small-caps;
-    box-shadow: 7px 7px 7px rgb(7, 197, 245);
+    box-shadow: 10px 10px 10px rgb(7, 197, 245);
     border-radius: 15px;
 }
 a[href*="EdduardoMarcelo"] {
