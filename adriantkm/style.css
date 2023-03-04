@@ -50,9 +50,9 @@ span {
     font-size: 32px;
     white-space: nowrap;
     border-right: 4px solid;
-    width: 31ch;
+    width: 32ch;
 
-    animation: typing 2s steps(12), blink 0.5s infinite step-end alternate;
+    animation: typing 0.85s steps(28), blink 0.5s infinite step-end alternate;
     overflow: hidden;
 }
 
