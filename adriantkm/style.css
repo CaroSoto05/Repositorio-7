@@ -43,3 +43,24 @@ img{
     border-radius: 50px;
     border: 5px solid rgb(60, 42, 33);
 }
+
+span {
+    display: block;
+    font-family: monospace;
+    font-size: 32px;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width: 12ch;
+
+    animation: typing 2s steps(12), blink 0.5s infinite step-end alternate;
+    overflow: hidden;
+}
+
+@keyframes typing{
+    from {width: 0}
+}
+
+@keyframes blink{
+    50% {border-color: transparent}
+}
+
