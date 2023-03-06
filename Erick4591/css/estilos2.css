@@ -1,0 +1,18 @@
+div.producto {
+    background-color: blueviolet;
+}
+
+div {
+    background-color: yellow !important;
+}
+
+/* modelo de caja */
+
+#a1 {
+    background-color: yellowgreen;
+    padding: 5px;
+}
+
+#a1 p {
+    background-color: yellow;
+}
