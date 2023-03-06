@@ -11,8 +11,8 @@ div {
 #a1 {
     background-color: yellowgreen;
     padding: 5px;
-    border: 5px solid black;
     margin: 10px;
+    border: 5px solid black;
 }
 
 #a1 p {
@@ -20,71 +20,74 @@ div {
     margin: 0;
 }
 
-#a2 p {
+
+#a2 {
     background-color: black;
     padding: 5px;
 }
 
-#a2 {
+#a2 p {
     background-color: lawngreen;
     border: 3px solid white;
 
-    /* rellenos iguales de 4 lados */
-padding: 10px;
+    /* rellenos iguales 4 lados */
+    padding: 10px;
 
-    /* 10px sup inf    20px izq-der */
-padding: 10px 20px;
+    /*  10px sup-inf
+        20px izq-der 
+    */
+    padding: 10px 20px;
 
-    /* 10px sup     50px izq-der
-    30px inf
-     */
-padding: 10px 50px 30px;
+    /*  10px sup 
+        50px izq-der
+        30px inf
+    */
+    padding: 10px 50px 30px;
 
-    /* 10px sup inf   
+    /*  10px sup 
         20px der
         30px inf
-        40 izq */
-padding: 10px 20px 30px 40px;
+        40px izq
+    */
+    padding: 10px 20px 30px 40px;
 }
 
+
 #a3 {
-    background: pink;
-    width: 100;
+    background-color: pink;
+    width: 100px;
     height: 100px;
     padding: 5px;
     border: 5px solid black;
-
 }
+
 
 #a4 {
     background-color: powderblue;
-    width: 100;
+    width: 100px;
     height: 100px;
     padding: 5px;
     border: 5px solid black;
     box-sizing: border-box;
 }
 
-
-#a5  {
-   
-    background-color: red;
+#a5 {
+    background-color: blue;
     display: inline-block;
     width: 100px;
-    height: 100px;
-    
+    height: 100px; 
 }
 
 #a5 span {
     display: inline-block;
     background-color: white;
-    height: 30 px;
+    height: 30px;
     width: 30px;
 }
 
 #a6 {
+    background-color: red;
     display: inline-block;
-    background-color: blueviolet;
     width: 150px;
     height: 150px;
 }
@@ -96,8 +99,6 @@ padding: 10px 20px 30px 40px;
     padding: 2rem;
     margin: 3em;
 }
-/* margin 30
-padding 32 */
 
 #a8 {
     background-color: chartreuse;
@@ -112,7 +113,8 @@ body {
 }
 
 #a9 {
-    background-color: darkkhaki;
+    background-color: darkcyan;
+    /* margin: auto; */
     width: 70%;
     height: 100%;
 }
