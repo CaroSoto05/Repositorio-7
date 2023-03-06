@@ -12,8 +12,39 @@ div {
 #a1 {
     background-color: yellowgreen;
     padding: 5px;
+    margin: 10px;
+    border: 5px solid black;
 }
 
 #a1 p {
     background-color: yellow;
+    margin:0;
+}
+
+#a2 {
+    background-color: black;
+    padding: 5px;
+}
+
+#a2 p {
+    background-color: lawngreen;
+    border: 3px solid white;
+
+    /* rellenos iguales 4 lados */
+    padding: 10px;
+
+    /* 10px sup-inf     20px izq-der */
+    padding: 10px 20px;
+
+    /* 10px sup
+       50px izq-der
+       30px inf */
+    padding: 10px 50px 30px;
+
+    /* 10px sup
+       20px der
+       30px inf
+       40px izq */
+    padding: 10px 20px 30px 40px;
+    
 }
