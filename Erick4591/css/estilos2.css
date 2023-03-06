@@ -53,3 +53,20 @@ div {
 }
 
 
+#a3 {
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 5px solid black;
+}
+
+
+#a4 {
+    background-color: powderblue;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
