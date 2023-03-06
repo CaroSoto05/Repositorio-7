@@ -1,66 +1,70 @@
-/*cambiar color a las secciones cuendo el puntero de mausepase sobre el elemento */
+/* Cambiar color a las secciones cuando el puntero del mouse pase sobre el elemento */
 
 section:hover{
-    background-color: darkorange;
+    background-color: darkred;
 }
 
-p:hover {
-    font-size: 18px;
+p:hover{
+    font-size: 20px;
     font-variant: small-caps;
 }
 
-a {
+
+a{
     text-decoration: none;
-    border: 1px solid black;
-    border-bottom: 5px;
+    border: 1px solid #000;
+    border-radius: 5px;
     padding: 4px;
 }
 
-a:hover {
-    background-color: rgb(190, 0, 0);
-    color: rgb(251, 243, 243);
+a:hover{
+    background-color: royalblue;
+    color:aliceblue;
 }
 
-/* Aplicar un estilo al primer elemento de la lista-1 */
 
-#lista-1 li:first-child {
-    border-top: 3px dotted black;
-    color: rgb(12, 12, 233);
+/* Aplicar un estilo al primer elemento de la lista uno */
+
+#lista1 li:first-child{
+    border: 3px dotted #000;
+    color: blue;
 }
 
-/* Aplicar estilo ultimo elemento de la lista-1 */
-
-#lista-1 li:last-child {
+/* Aplicar estilo ultimo elemento de la lista uno */
+#lista1 li:last-child{
+    border-bottom: 3px dotted #000;
     background-color: aquamarine;
-    border-bottom: 3px dotted black;
 }
 
-/* aplicar estilo al noveno elemento */
-#lista-1 li:nth-child(9) {
-    border: 1px solid black;
+/* Aplicar estilo al noveno elemento */
+#lista1 li:nth-child(9){
+    border: 1px solid #000;
     border-radius: 3px;
 }
 
-/* aplicar estilo cada 5 items */ 
-#lista-1 li:nth-child(5n) {
+/* Aplicar estilo cada 5 items */
+#lista1 li:nth-child(5n){
     border-bottom: 4px dotted gray;
 }
 
-/* poner estilo a los elementos impares odd */
-#lista-2 li:nth-child(odd){
-    background-color: gainsboro;
+/* Poner estilo a los elemento impares */
+#lista2 li:nth-child(odd){
+    background-color: #888;
 }
 
-/* poner estilo a los elementos even */
-#lista-2 li:nth-child(even){
+/* Poner estilo a los elemento pares */
+#lista2 li:nth-child(even){
     background-color: yellow;
 }
 
-/* Cambiar el tamaño de la primera letra de todos a los parrafos de la pagina */
+/* Cambiar el tamaño de la primera letra de todos los parrafos de la pagina */
+/* pseudoElemento */
 p::first-letter{
     font-size: 100px;
     font-weight: bold;
 }
- p::first-line{
-    background-color: blueviolet;
- }
+
+p::first-line{
+    background-color: peru;
+    
+}
