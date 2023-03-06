@@ -76,6 +76,9 @@ div {
 
 #a5 span {
     background-color: white;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
 }
 
 #a6 {
@@ -83,4 +86,12 @@ div {
     width: 150px;
     height: 150px;
     display: inline-block;
+}
+
+#a7 p{
+    font-size: 5px;
+    background-color: aqua;
+    border: 0.5em solid black;
+    padding: 2em;
+    margin: 3em;
 }
