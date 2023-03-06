@@ -1,115 +1,102 @@
-
 div.producto {
     background-color: blueviolet;
 }
 
 div {
-    background-color: yellow !important;
+    background-color: yellow;
 }
-
 
 /* modelo de caja */
-
 #a1 {
-    background-color: yellowgreen;
+    background-color: blue ;
     padding: 5px;
-    margin: 10px;
+    margin:20px;
     border: 5px solid black;
 }
-
 #a1 p {
-    background-color: yellow;
-    margin: 0;
+    background-color: aqua;
+    margin:0;
 }
-
 
 #a2 {
-    background-color: black;
+    background-color: rosybrown;
     padding: 5px;
 }
-
-#a2 p{
-    background-color: lawngreen;
+#a2 p {
+    background-color: darkgreen;
     border: 3px solid white;
-
-    /* rellenos iguales 4 lados */
-    padding: 10px;
-
-    /* 10px sup-inf    20px izq-der */
-    padding: 10px 20px;
-
-    /* 10px sup 
-    50px izq-der
-    30px inf
-     */
-    padding: 10px 50px 30px;
-
-    /* 10px sup 
-    20px der 
-    30px inf 
-    40px izq */
 }
+   /* rellenos iguales 4 lados 
+   padding: 10px; */
 
+   /* 10 px sup-inf    20px iaq-der 
+   padding: 10px 20px;
+   padding: 10px 50px 30px */
 
-#a3 {
+   #a3 {
     background-color: pink;
     width: 100px;
     height: 100px;
     padding: 5px;
     border: 5px solid black;
-}
-
-#a4 {
+   }
+   #a4 {
     background-color: powderblue;
     width: 100px;
     height: 100px;
     padding: 5px;
     border: 5px solid black;
     box-sizing: border-box;
-}
+   }
 
-#a5 {
+   #a5 {
     background-color: blue;
-    display: inline-block;
+    display: inline;
     width: 100px;
     height: 100px;
-}
-
-#a5 span {
-    display: inline-block;
+   }
+   #a5 span {
     background-color: white;
-    height: 30px;
-    width: 30px;
-}
-
-#a6 {
     display: inline-block;
-    background-color: red;
-    width: 150px;
-    height: 150px; 
-}
+    height: 20px;
+    width: 50px;
+   }
 
-#a7 p{
+
+
+   #a6 {
+
+    background-color: red;
+    display: inline;
+    width: 150px;
+    height: 150px;
+   }
+
+   #a7 p{
+    font-size: 10px;
     background-color: aqua;
     border: 0.5em solid black;
-    padding: 2em;
+    padding: 1em;
     margin: 3em;
-}
+   }
 
-#a8 {
+   #a8 {
     background-color: chartreuse;
     margin:auto;
-    width: 70vw;
+    width: 70ww;
     height: 100vh;
-}
+   }
+   
 
-body {
+   body {
     width: 400px;
     background-color: yellow;
-}
-
-#a9 {
+   }
+   #a9 {
     background-color: darkcyan;
+    margin:auto;
     width: 70%;
     height: 100%;
-}
+   }
+
+   
