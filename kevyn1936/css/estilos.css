@@ -1,6 +1,7 @@
-/* cambiar color a las secciones cuando el puntero del mause pase por el elemento */
+/* Cambiar color a las secciones cuando el puntero del mouse pase sobre el elemento */
+
 section:hover{
-    background-color: brown;
+    background-color: darkred;
 }
 
 p:hover{
@@ -8,52 +9,62 @@ p:hover{
     font-variant: small-caps;
 }
 
+
 a{
     text-decoration: none;
-    border: 1px solid black;
+    border: 1px solid #000;
     border-radius: 5px;
     padding: 4px;
 }
 
-
 a:hover{
-    background-color: brown;
-    color: white;
+    background-color: royalblue;
+    color:aliceblue;
 }
 
-/* aplicar estilo al primer elemento lista */
+
+/* Aplicar un estilo al primer elemento de la lista uno */
+
 #lista1 li:first-child{
-    border-top: 3px dotted black;
+    border: 3px dotted #000;
     color: blue;
 }
 
-/* aplicar estilo al ultimo elemento lista */
+/* Aplicar estilo ultimo elemento de la lista uno */
 #lista1 li:last-child{
-    background-color: brown;
-    border-bottom: 3px dotted black;
+    border-bottom: 3px dotted #000;
+    background-color: aquamarine;
 }
 
-/* aplicar estilo al noveno de la lista */
+/* Aplicar estilo al noveno elemento */
 #lista1 li:nth-child(9){
-    border: 3px solid black;
-    border-radius: 10px;
-    color: blue;
+    border: 1px solid #000;
+    border-radius: 3px;
 }
 
-/* aplicar estilo cada 5 items */
+/* Aplicar estilo cada 5 items */
 #lista1 li:nth-child(5n){
     border-bottom: 4px dotted gray;
-
 }
 
-
-/* poner estilos a los impares  con odd*/
+/* Poner estilo a los elemento impares */
 #lista2 li:nth-child(odd){
-    background-color: gainsboro;
+    background-color: #888;
 }
 
-
-/* poner estilo a los pares con even */
+/* Poner estilo a los elemento pares */
 #lista2 li:nth-child(even){
     background-color: yellow;
+}
+
+/* Cambiar el tamaño de la primera letra de todos los parrafos de la pagina */
+/* pseudoElemento */
+p::first-letter{
+    font-size: 100px;
+    font-weight: bold;
+}
+
+p::first-line{
+    background-color: peru;
+    
 }
