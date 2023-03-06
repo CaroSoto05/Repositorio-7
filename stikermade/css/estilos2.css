@@ -47,3 +47,40 @@ div {
        40px izq */
     padding: 10px 20px 30px 40px;
 }
+
+
+#a3 {
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 5px solid black;
+}
+
+#a4 {
+    background-color: powderblue;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
+
+
+#a5 {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+#a5 span {
+    background-color: white;
+}
+
+#a6 {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}

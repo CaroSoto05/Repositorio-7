@@ -1,0 +1,68 @@
+div.producto {
+    background-color: blueviolet;
+}
+
+div {
+    background-color: rgb(244, 139, 101);
+}
+
+/* modelo de caja */
+
+#a1 {
+    background-color: yellowgreen;
+    padding: 5px;
+    margin: 10px;
+    border: 5px solid black;
+}
+
+#a1 p {
+    background-color: aquamarine;
+    margin:0;
+}
+
+#a2 {
+    background-color: rgb(8, 9, 10);
+    padding: 5px;
+}
+
+#a2 p {
+    background-color: rgb(70, 247, 97);
+    border: 3px solid white;
+
+    /* rellenos ifuaels 4 lados  */
+    padding: 10px;
+
+    padding: 10px 20px;
+    
+    /* 10px sup-inf   20px izquierda*/
+    padding: 10px 20px;
+
+    /* 10px sup 
+        50px izquierda
+        30px abajo (inferior- inf) */
+    padding: 10px 50px 30px;
+
+    /* 10px sup
+        20px derecha
+        30 px inf
+        40px izq */
+    padding: 10px 20px 30px 40px;
+}
+#a3 {
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 5px solid black;
+}
+
+#a4 {
+    background-color: powderblue;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
+
+
