@@ -70,3 +70,24 @@ div {
     border: 5px solid black;
     box-sizing: border-box;
 }
+
+#a5 {
+    background-color: blue;
+    display: inline-block;
+    width: 100px;
+    height: 100px; 
+}
+
+#a5 span {
+    display: inline-block;
+    background-color: white;
+    height: 30px;
+    width: 30px;
+}
+
+#a6 {
+    background-color: red;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+}
