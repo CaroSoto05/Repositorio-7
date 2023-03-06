@@ -283,9 +283,16 @@ li#a18{
     background-color: red;
 }
 
+/* Estilos de danielsoto1612 */
 #a32 {
-    background-color: red;
+    background-color: rgb(131, 131, 131);
+    font-variant: small-caps;
+    border-radius: 10px;
 }
+#a32 a{
+    color: black;
+}
+/* Fin de estilos de danielsoto1612 */
 
 #a33 {
     background-color: red;
