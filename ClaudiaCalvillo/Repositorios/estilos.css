@@ -1,0 +1,16 @@
+#titulo {
+    color: #520c30; 
+    font-family:'Times New Roman';
+}
+/* ------------------------------- */
+#fondo {
+    background-color: #f0ddbd; 
+    font-size: 20px;
+}
+/* ------------------------------- */
+ul#lista {
+    font-size: 15px; 
+    font-family: 'Times Nex Roman'; 
+    color: #851e25;
+}
+
