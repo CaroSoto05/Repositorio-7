@@ -65,4 +65,49 @@ div {
     box-sizing: border-box;
 }
 
+#a5 {
+    background-color: red;
+    display: inline-block;
+     width: 100px;
+    height: 100px; 
+    
+}
+#a5 span {
+    background-color: aliceblue;
+    display: inline-block;
+    width: 30px;
+    height: 30px; 
+}
+
+#a6 {
+    display: inline-block;
+    background-color: blue;
+     width: 150px;
+    height: 150px; 
+}
+
+#a7 p {
+    font-size: 5px;
+    background-color: aqua;
+    border: 0.5em solid black;
+    padding: 2rem;
+    margin: 3.5em;
+}
+
+#a8 {
+    background-color: yellowgreen;
+    margin: auto;
+    width: 70vw;
+    height: 100vh;
+}
+
+body {
+    width: 400px;
+    background-color: yellow;
+}
+#a9 {
+    background-color: darkcyan;
+    width: 70%;
+    height: 100%;
+}
 
