@@ -1,0 +1,27 @@
+article.Producto{
+    background-color: aquamarine;
+}
+div{
+    background-color: brown;
+}
+#a1{
+    background-color: yellow;
+    padding: 5px;
+    border: 5px black;
+    margin: 10px;
+}
+#a1 p{
+    background-color: yellowgreen;
+}
+
+#a2 {
+
+}
+#a2 p {
+    background-color: green;
+    border: 3px solid pink;
+    /* cambia los 4 */
+    padding: 5px;
+    padding: 10px 20px;
+
+}
