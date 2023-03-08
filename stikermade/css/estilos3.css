@@ -1,0 +1,16 @@
+/* colores */
+
+/* primer parrafo con color predefinido */
+#s1 p:first-child {
+    background-color: tomato;
+}
+
+/* segundo parrafo con modelo rgb */
+#s1 p:nth-child(2) {
+    background-color: #CF4DCE;
+}
+
+/* ultimo parrafo con modelo hsl */
+#s1 p:last-child {
+    background-color: hsl(345, 90%, 50%);
+}
