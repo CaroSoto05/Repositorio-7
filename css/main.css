@@ -52,6 +52,7 @@ a[href*="JonathanLTI"] {
     background-color: burlywood;
     border-radius: 15px;
     font-variant: small-caps;
+    border: 2px solid black;
 }
 
 #a4 a{ color: rgba(255,255,255,1);
@@ -91,9 +92,9 @@ a[href*="JonathanLTI"] {
 /* Estilos de EdduardoMarcelo */
 /* ---------------------------------------------------------------------- */
 #a10 {
-    background-color: rgb(0, 255, 64) ;
+    background-color: rgb(63, 253, 158) ;
     font-size: 14px ; font-style: oblique ; font-weight: bold; font-variant: small-caps;
-    box-shadow: 7px 7px 7px rgb(7, 197, 245);
+    box-shadow: 10px 10px 10px rgb(7, 197, 245);
     border-radius: 15px;
 }
 a[href*="EdduardoMarcelo"] {
@@ -161,13 +162,14 @@ a[href*="EdduardoMarcelo"] {
 /* Estilos de Erick4591 */
 /* ------------------------------------------------------------------- */
 #a17 {
-    background-color: rgb(107, 6, 6);
+    background-color: black;
     font-variant: small-caps;
     border-radius: 15px;
+    border: 2px solid yellow;
 }
 
 #a17 a{
-    color: white;
+    color: yellow;
 }
 /* FIN estilos de Erick4591 */
 
@@ -188,12 +190,16 @@ li#a18{
 
 /* Estilo de melhdz */
 /* --------------------------------------------------------------------------------------------------------------------------------- */
-
-#a19 {
-    background-color: rgba(137, 43, 226, 0.84);
-    color: rgb(255, 255, 255);
+#a19  {
+    color: lavenderblush;
+    background-color:rgba(137, 43, 226, 0.84);
     font-variant: small-caps;
     box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.66);
+    border-radius: 20px;    
+}
+#a19  {
+    color: lavenderblush;
+
 }
 /* FIN estilos de melhdz */
 #a20 {
@@ -281,9 +287,16 @@ li#a18{
     background-color: red;
 }
 
+/* Estilos de danielsoto1612 */
 #a32 {
-    background-color: red;
+    background-color: rgb(131, 131, 131);
+    font-variant: small-caps;
+    border-radius: 10px;
 }
+#a32 a{
+    color: black;
+}
+/* Fin de estilos de danielsoto1612 */
 
 #a33 {
     background-color: red;
