@@ -1,0 +1,46 @@
+/* Colores */
+
+/* Primer parrafo con color predefinido */
+#s1 p:first-child{
+    background-color: blue;
+
+}
+/* segundo parrafo con color rgb */
+#s1 p:nth-child(2){
+    background-color:  #0E8388;
+    
+}
+/* ultimo parrafo con modelo hs1*/
+#s1 p:last-child{
+    background-color: rgb(39, 137, 218);
+    
+}
+
+#s2 p{
+    color: #ffffff;
+    width: 10rem;
+    height: 10rem;
+    background-color: #2F58CD;
+    overflow: auto;
+}
+#s3 img{
+    width: 10em;
+    float: left;
+    margin-right: 1em;
+    border: 1px solid #000000;
+    border-radius: 100%;
+}
+
+#s4 ul{
+    background-color: rgb(236, 22, 107);
+}
+
+#s4 li{
+float:right;
+width: 25%;
+}  
+.clearfix{
+    clear: both;
+    content: "";
+    display:table;
+}

@@ -1,0 +1,49 @@
+/* colores */
+
+/*Primer parrafo con color  predefinidos */
+#s1 p:first-child {
+    background-color: tomato;
+}
+
+/*segundo parrafo con color rgb */
+#s1 p:nth-child(2) {
+    background-color: #30E3DF;
+}
+
+/*ultimo parrafo con modelo hsl */
+#s1 p:last-child {
+    background-color: hsl(345, 54%, 61%);
+}
+
+
+#s2 p {
+    color: aliceblue;
+    width: 10rem;
+    height: 10rem;
+    background-color: violet;
+    overflow: auto;
+}
+
+#s3 img {
+    width: 10cm;
+    float: left;
+    margin-right: 1cm ;
+    border: 1px solid black ;
+    border-radius: 100%; /* esto lo hace forma circular */
+}
+
+#s4 ul {
+    background-color: #FF1E1E;
+}
+
+
+#s4 li {
+    float: right ;
+    width: 25%;
+}
+
+.clearfix {
+    clear: both;
+    content: "";
+    display: table;
+}
