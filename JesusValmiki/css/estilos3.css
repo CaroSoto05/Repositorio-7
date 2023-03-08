@@ -1,0 +1,47 @@
+/* colores */
+/* primer parrafo con color predefinido */
+
+#s1 p:first-child{
+    background-color: tomato;
+}
+
+#s1 p:nth-child(2){
+    background-color: #CF4000;
+}
+
+#s1 p:last-child{
+    background-color: hsl(345, 90%, 50%);
+}
+
+#s2 p{
+    width: 10rem;
+    height: 10rem;
+    background-color: #fff000;
+    /* scroll--- hidden */
+    /* sino hay ancho y alto el overflow no sirve */
+    overflow: auto;
+}
+
+#s3 img{
+    /* width: 100%; */
+    width: 10em;
+    float: left;
+    margin-right: 1em;
+    border: #aaa323 solid 1px;
+    border-radius: 100%;
+}
+
+#s4 ul{
+    background-color: #fff000;
+}
+
+#s4 li{
+    float: right;
+    width: 25%;
+}
+
+.clearfix{
+    clear: both;
+    content: "";
+    display: table;
+}
