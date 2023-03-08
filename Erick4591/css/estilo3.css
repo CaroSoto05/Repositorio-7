@@ -21,4 +21,5 @@
     width: 10rem;
     height: 10rem;
     background-color: #3A98B9;
+    overflow: auto;
 }
