@@ -1,0 +1,90 @@
+div.producto {
+    background-color: blueviolet;
+}
+div { 
+    background-color: yellow;
+}
+#a1 {
+    background-color: blueviolet;
+    padding: 5px;
+    margin: 10px;
+    border: 5px solid black;
+}
+#a1 p {
+    background-color: yellow;
+    margin: 0;
+}
+#a2 {
+    background-color: black;
+    padding: 5px;
+}
+#a2 p {
+    background-color: lawngreen;
+    border: 3px solid white;
+    /*Rellenos iguales los 4 lados*/
+    padding: 10px;
+    /*Serian 10 px superior inferior 20 izq y der*/
+    padding: 10px 20px;
+    /*Superior, laterales, inferior*/
+    padding: 10px 50px 30px;
+    /*Superior, derecha, infrrior, izquierda*/
+    padding: 10px 20px 30px 40px;
+    
+}
+#a3 {
+    background-color: pink;
+    width: 100;
+    height: 100;
+    padding: 5;
+    border: 5px solid black;
+
+}
+
+#a4 {
+    background-color: powderblue;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 5px solid black;
+    box-sizing: border-box;
+
+}
+#a5 {
+    background-color: blue;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    
+}
+#a5 span {
+    background-color: white;
+}
+
+#a6 {
+    background-color: red;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+}
+
+#a7 p {
+    font-size: 10px;
+    background-color: aqua;
+    border: 0.5em solid black;
+    padding: 2em;
+    margin: 3em;
+}
+#a8 {
+    background-color: green;
+    margin: auto;
+    width: 70vw;
+    height: 100vh;
+}
+
+#a9 {
+    background-color: darkcyan;
+    margin: auto;
+    width: 70%;
+    height: 100%;
+
+}

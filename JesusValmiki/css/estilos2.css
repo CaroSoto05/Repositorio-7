@@ -1,0 +1,110 @@
+div.producto{
+    background-color: aqua;
+}
+
+div{
+    background-color: yellow !important;
+}
+
+/* modelo de caja */
+#a1{
+    background-color: blue;
+    padding: 5px;
+    margin: 10px;
+    border: 5px solid #000;
+}
+
+#a1 p{
+    background-color: brown;
+    margin: 0px;
+}
+
+#a2{
+    background-color: chartreuse;
+    padding: 5px;
+}
+
+#a2 p{
+    background-color: orangered;
+    border: 3px solid #fff;
+    /* Rellenos iguales los 4 lados */
+    padding: 10px;
+    /* 10 superior inferior --- 20 los lados */
+    padding: 10px 20px;
+    /* 10 superior---50 lados---30 inferior */
+    padding: 10px 50px 30px;
+    /* 10 superior---20derecha--30inferior--40izquierda */
+    padding: 10px 20px 30px 40px;
+}
+/* content box----border box */
+#a3{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 5px solid #000;
+    
+}
+/*  border box hace que ancho y alto lleguen hasta el borde*/
+#a4{
+    background-color: cadetblue;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 5px solid #000;
+    box-sizing: border-box;
+}
+
+/* Display */
+#a5{
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+#a5 span{
+    display: inline-block;
+    background-color: aliceblue;
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+#a6{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+
+
+#a7{
+    font-size: 10px;
+    background-color: aqua;
+    border: 0.5em solid black;
+    padding: 2rem;
+    margin: 3em;
+}
+
+#a8{
+    background-color: brown;
+    margin: auto;
+    width: 50vw;
+    height: 100vh;
+}
+
+body{
+    width: 400px;
+    background-color: yellow;;
+}
+
+#a9{
+    background-color: crimson;
+    margin: auto;
+    width: 50%;
+    height: 100%;
+}
+

@@ -1,0 +1,25 @@
+
+body{
+    background-color: #c2c3f3;
+}
+
+h1 {
+    text-align: center;
+    background-color: #edc4d6; 
+    font-size: 50px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+
+}
+
+a:hover {
+    background-color: #c9b8da;
+}
+
+p {
+    font-size: 24px;
+}
