@@ -14,3 +14,12 @@
 #s1 p:last-child {
     background-color: hsl(345, 90%, 50%);
 }
+
+
+#s2 p {
+    color: #fff;
+    width: 10rem;
+    height: 10rem;
+    background-color: #13005A;
+    overflow: auto;
+}
