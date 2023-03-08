@@ -23,3 +23,26 @@
     background-color: #3A98B9;
     overflow: auto;
 }
+
+#s3 img {
+    width: 10em;
+    float: left;
+    margin-right: 1em;
+    border: 1px solid #000;
+    border-radius: 100%;
+}
+
+#s4 ul {
+    background-color: #FFEA20;
+}
+
+#s4 li {
+    float: right;
+    width: 25%;
+}
+
+.clearfix {
+    clear: both;
+    content: "";
+    display: table;
+}
