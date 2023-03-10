@@ -49,6 +49,7 @@ span{
     align-items: center;
     color:#ffffff;
     text-decoration: none;
+    border-radius: 7px;
 }
 
 .nbar li a:hover{
@@ -65,13 +66,13 @@ span{
     background-image: url(/SamuelOGG/Imagenes/GitHub\ -\ damnitharshit_Wallpapers_\ A\ simple\ collection\ of\ my\ favorite\ wallpapers.jpeg);
     background-repeat: no-repeat;
     background-position: center center;
-    height: 617px;
+    height: 649px;
     background-attachment: fixed;
     background-size: cover;
 }
 
 .phead .h{
-    height: 127px;
+    height: 115px;
     display: flex;
     justify-content: center;
     font-size: 100px;
@@ -79,16 +80,16 @@ span{
     color: white; 
 }
 
-.phead .p{
+.phead .h2{
     color: #01c38d;
     height: 100px;
     display: flex;
     justify-content: right;
     font-size: 50px;
-    width: 970px;
+    width: 960px;
 }
 
-.phead .h2{
+.phead .p1{
     height: 75px;
     display: flex;
     justify-content: center;
@@ -104,7 +105,7 @@ span{
     text-align: justify;
     color: white; 
 }
-.phead .h4{
+.phead .p2{
     height: 200px;
     display: flex;
     justify-content: center;

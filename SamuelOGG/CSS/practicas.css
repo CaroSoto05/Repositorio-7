@@ -40,6 +40,7 @@ span{
 }
 
 .nbar li a{
+    border-radius: 7px;
     font-size: 15px;
     height: 75%;
     width: 100%;
@@ -47,15 +48,95 @@ span{
     justify-content: center;
     align-items: center;
     color:#ffffff;
-    text-decoration: none;
+    text-decoration: none
 }
 
 .nbar li a:hover{
     background-color: #01c38d;
-    transition: ease-in .3s;
+    transition: ease-in .2s;
     font-size: 17px;
     box-shadow: 0 0 5px #01c38d,
                 0 0 15px #01c38d,
                 0 0 25px #01c38d,
                 0 0 5px #01c38d
+}
+
+
+
+.menu li:nth-child(1){
+    border-left: 5px #000000;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    background-color: #01c38d;
+}
+
+.menu2 li:nth-child(2){
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    background-color: #01c38d;
+}
+
+.menu3 li:nth-child(3){
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    background-color: #01c38d;
+}
+
+.menu4 li:nth-child(4){
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    background-color: #01c38d;
+}
+
+.menu5 li:nth-child(5){
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    background-color: #01c38d;
+}
+
+.menu6 li:nth-child(6){
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    background-color: #01c38d;
+}
+
+.menu7 li:nth-child(7){
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    background-color: #01c38d;
+}
+
+.menu8 li:nth-child(8){
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    background-color: #01c38d;
+}
+
+.menu9 li:nth-child(9){
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    background-color: #01c38d;
+}
+
+.menu10 li:nth-child(10){
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    background-color: #01c38d;
+}
+
+.menu11 li:nth-child(11){
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    background-color: #01c38d;
 }
