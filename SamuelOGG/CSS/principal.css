@@ -6,14 +6,54 @@
     box-sizing: border-box;
 }
 
-a{
-    text-decoration: none;
+body{
+    height: 100vh;
+    background-color: #132d46;
 }
 
-.menu{
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+.texto{
+    font-size: 25px;
 }
+.sg{
+    color: antiquewhite;
+}
+
+span{
+    color: #01c38d;
+}
+
+.nbar{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 250px;
+    padding: 10px 14px;
+    background-color: #191e29;
+}
+
+.nbar li{
+    height: 50px;
+    list-style: none;
+    margin-top: 1px;
+    display: flex;
+    align-items: center;
+}
+
+.nbar li a{
+    font-size: 15px;
+    height: 60%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: antiquewhite;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.nbar li a:hover{
+    background-color: #01c38d;
+    transition: ease-in .3s;
+}
+
 

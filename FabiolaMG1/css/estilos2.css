@@ -12,7 +12,7 @@ div {
     background-color: palevioletred;
     padding: 5px;
     margin: 10px;
-    border: 5px solid burlywood;
+    border: 5px solid black;
 }
 
 #a1 p {
@@ -37,9 +37,7 @@ div {
     padding: 10px 20px;
 
 
-    /* 10px superior 
-        50px a los lados 
-        30px inferior*/
+    /* 10px superior 50px a los lados 30px inferior*/
     padding: 10px 50px 30px;
 
 
@@ -75,19 +73,20 @@ div {
     display: inline-block;
 }
 
-#a6 {
-    display: inline-block;
-    background-color: red;
-    width: 150px;
-    height: 150px; 
-}
-
 #a5 span {
     display: inline-block;
     background-color: antiquewhite;
     width: 30px;
     height: 30px;
 }
+
+#a6 {
+    background-color: red;
+    width: 150px;
+    height: 150px; 
+    display: inline-block;
+}
+
 
 
 #a7 p {
@@ -115,6 +114,7 @@ body {
 
 #a9 {
     background-color: cornflowerblue;
+    margin: auto;
     width: 70%;
     height: 100%;
 
