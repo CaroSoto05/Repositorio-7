@@ -34,7 +34,7 @@ span{
 
 .nbar li{
     position: relative;
-    height: 45px;
+    height: 43px;
     list-style: none;
     margin-top: 7px;
 }
@@ -129,6 +129,13 @@ span{
 }
 
 .menu10 li:nth-child(10){
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    background-color: #01c38d;
+}
+
+.menu11 li:nth-child(11){
     border-radius: 7px;
     display: flex;
     align-items: center;

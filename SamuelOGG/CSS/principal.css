@@ -35,7 +35,7 @@ span{
 
 .nbar li{
     position: relative;
-    height: 45px;
+    height: 43px;
     list-style: none;
     margin-top: 7px;
 }
@@ -54,7 +54,7 @@ span{
 
 .nbar li a:hover{
     background-color: #01c38d;
-    transition: ease-in .3s;
+    transition: ease-in .1s;
     font-size: 17px;
     box-shadow: 0 0 5px #01c38d,
                 0 0 15px #01c38d,
