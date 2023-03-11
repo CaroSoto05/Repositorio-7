@@ -1,0 +1,45 @@
+/* colores  */
+
+/* primer parrafo con color predefinido */
+#s1 p:first-child{
+    background-color: tomato;
+}
+/* egundo parrafo color RGB */
+#s1 p:nth-child(2){
+    background-color: #CF4DCE;
+}
+/* ultimo parrafo con modelo hs1 */
+#s1 p:last-child {
+    background-color: hsl(345, 90%, 50%);
+}
+
+#s2 p {
+    color: #fff;
+    width: 10rem;
+    height: 10rem;
+    background-color: #2B3467;
+    overflow: auto;
+}
+
+#s3 img {
+    width: 10em;
+    float: left;
+    margin-right: 1em;
+    border: 1px solid #000;
+    border-radius: 100%;
+}
+
+#s4 ul{
+    background-color: #E7B10A;
+}
+
+#s4 li{
+    float: right;
+    width: 25%;
+}
+
+.clearfix {
+    clear: both;
+    content: "";
+    display: table;
+}
