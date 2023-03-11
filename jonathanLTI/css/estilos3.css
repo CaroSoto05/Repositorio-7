@@ -47,3 +47,10 @@
     content: "";
     display: table;
 }
+
+a {
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 4px;
+}
