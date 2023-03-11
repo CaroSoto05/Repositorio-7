@@ -1,36 +1,59 @@
-/* ----------------------------------- */
-#titulo {
-    color: #520c30; 
-    font-family:'Times New Roman';
+*{
+    font-family:'Helvetica';
+    color: white;
+    background-color: #154360; 
 }
-/* ----------------------------------- */
-#fondo {
-    background-color: #f0ddbd; 
-    font-size: 25px;
-}                                         
-/* ----------------------------------- */
-ul#lista {
-    font-size: 20px; 
-    font-family: 'Times New Roman'; 
-    color: #851e25;
+
+span{
+    color:#F1C40F;
+}
+
+#principal{
+    font-size: 50px;
 } 
-/* ----------------------------------- */
-ol#lista {
-    font-size: 20px; 
-    font-family: 'Times Nex Roman'; 
-    color: #851e25;
+
+.css{
+    font-family: 'Verdana';
+    color: #AAB7B8;
 }
-/* ----------------------------------- */
-#e {
+                         
+.rep{
+    font-family: 'Verdana';
+    color: #AAB7B8;
+}
+.pp {
     text-decoration:none;
-    border: 1px solid rosybrown;
-    border-radius: 5px;
-    padding: 4px;
+    border: 2px solid #212F3C;
+    border-radius: 10px;
+    padding: 5px;
     font-size: 15px;
-    color: black;
+    color: #AAB7B8;
+    float: center;
 }
-/* ------------------------------------ */
-#lista li:first-child {
-    border-top: 3px dotted rosybrown;
+
+#titulo{
+    font-size: 30px;
+    color: #F1C40F;
+    background-color: #212F3C;
+    border-radius: 10px;
+    border: 2px solid #212F3C;
 }
-/* ------------------------------------ */
+
+.lista1 li{
+    color: #AAB7B8;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.lista2 li{
+    color: #AAB7B8;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+}
+
+img{
+    border: 3px solid black;
+    border-radius: 15px;
+}
