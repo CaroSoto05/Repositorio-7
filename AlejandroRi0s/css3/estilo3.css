@@ -15,7 +15,7 @@
 /* ultimo parrafo con modelo hs1 */
 
 #s1 p:last-child{
-    background-color: hsl(80, 50, 65);
+    background-color: hsl(20, 0, 100);
 }
 
 #s2 p {
