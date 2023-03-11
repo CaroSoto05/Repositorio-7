@@ -2,22 +2,22 @@
 
 /* primer parrafo con color predefinido */
 #s1 p:first-child{
-    background-color: tomato;
+    background-color: rgb(221, 255, 71);
 }
 /* egundo parrafo color RGB */
 #s1 p:nth-child(2){
-    background-color: #CF4DCE;
+    background-color: #800717;
 }
 /* ultimo parrafo con modelo hs1 */
 #s1 p:last-child {
-    background-color: hsl(345, 90%, 50%);
+    background-color: hsl(263, 96%, 18%);
 }
 
 #s2 p {
-    color: #fff;
+    color: black;
     width: 10rem;
     height: 10rem;
-    background-color: #2B3467;
+    background-color: aquamarine;
     overflow: auto;
 }
 
@@ -30,7 +30,7 @@
 }
 
 #s4 ul{
-    background-color: #E7B10A;
+    background-color: blueviolet;
 }
 
 #s4 li{
