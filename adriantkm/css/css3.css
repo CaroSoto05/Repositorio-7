@@ -1,0 +1,44 @@
+/* colores */
+/* primer parrafo con color predefinido */
+#s1 p:first-child {
+    background-color: tomato;
+}
+/* Segundo parrafo con color predefinido */
+#s1 p:nth-child(2) {
+    background-color: #FFB84C;
+}
+/* Segundo parrafo con color predefinido */
+#s1 p:last-child {
+    background-color: hsl(345, 90%, 50%);
+}
+
+#s2 p{
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    background-color: #FFB84C;
+    overflow: auto;
+}
+
+#s3 img{
+    width: 10rem;
+    float: left;
+    margin-left: 1em;
+    border: 1px solid black;
+    
+}
+
+#s4 ul{
+    background-color: #F16767;
+}
+
+#s4 li{
+    float: right;
+    width: 25%;
+
+}
+.clearfix {
+    clear: both;
+    content: "";
+    display: table;
+}
