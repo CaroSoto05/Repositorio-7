@@ -1,16 +1,13 @@
 /* Estilos generales */
-.nav ul {
-    list-style: none;
-    height: 100vh;
-    display: flex;
-    flex-wrap: wrap;
-
+body {
+    background: linear-gradient(90deg, #079992, #b8e994);
 }
-
-.nav ul li {
-    margin: 1em;
+.heading {
+    text-align: center;
+    color: #FFF;
+    font: 60px Lobster;
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4)
 }
-
 .nav {
     display: flex;
     justify-content: center;
@@ -19,6 +16,7 @@
 .nav__link {
     color: #fff;
     text-decoration: none;
+    font: 30px Lobster;
     padding: 10px 20px;
     display: block;
     background-color: #222;
@@ -35,10 +33,10 @@
     right: 0;
     bottom: 0;
     border-radius: 5px;
-    transition: all 0.3s ease-in-out;
-    transform: rotateY(100deg) translateZ(100px);
+    transition: all 0.2s ease-in-out;
+    transform: rotateY(-100deg) translateZ(-100px);
 }
 .nav__link:hover::after {
-    transform: translateZ(0px);
-    background-color: rgba(184, 211, 31, 0.322);
+    transform: translateZ(-0px);
+    background-color: rgba(107, 148, 84, 0.322);
 }
