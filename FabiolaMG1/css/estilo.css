@@ -1,6 +1,6 @@
 
 body{
-    background-color: #c2c3f3;
+    background-color: #3e4ac5;
 }
 
 h1 {
@@ -9,17 +9,18 @@ h1 {
     font-size: 50px;
 }
 
+h2 { 
+    color: #fff;
+}
+
 a {
     text-decoration: none;
     font-size: 22px;
-    color: black;
+    color:#fff;
 
 }
 
 a:hover {
-    background-color: #c9b8da;
+    background-color: #9d53b4;
 }
 
-p {
-    font-size: 24px;
-}
