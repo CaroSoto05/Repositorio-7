@@ -1,0 +1,102 @@
+div.producto{
+    background-color: rgb(244, 250, 253) !important;
+}
+
+div{
+    background-color: rgb(171, 172, 171);
+}
+/* modelo de caja */
+#a1 {
+    background-color: rgba(242, 243, 240, 0.909);
+    padding: 5px;
+    margin: 10;
+    border: 5px solid black;
+}
+#a1 p {
+    background-color: rgba(41, 178, 241, 0.637);
+    margin:0;
+}
+#a2{
+    background-color:rgba(0, 0, 0, 0.861);
+    padding: 5px;
+}
+#a2 p{
+    background-color: rgb(104, 236, 214);
+    border: 3px solid white;
+
+/* rellenos iguales 4 lados */
+padding: 10px;
+
+/* 10px sup-inf 20px izq-der */
+padding: 10px 20px;
+
+/*10px sup
+50px izq-der
+30px inf  */
+padding: 10px 50px 30px;
+
+/*10px sup
+20px der
+30px inf
+40px izq */
+padding: 10px 20px 30px 40px;
+
+}
+
+#a3{
+    background-color: rgb(242, 186, 255);
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 5px solid black;
+}
+
+#a4{
+    background-color: rgb(159, 234, 244);
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
+
+#a5{
+    background-color: rgb(176, 176, 253);
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+
+}
+#a6{
+    display: inline-block;
+    background-color: rgba(175, 243, 255, 0.58);
+    width: 150px;
+    height: 150px;
+/* Rem ignora el especificado em si lo toma */
+}
+#a7 p{
+    font-size: 10px;
+    background-color: aqua;
+    border:0.5em solid black;
+    padding: 2em;
+    margin: 3em;
+}
+#a8 {
+    background-color:rgb(191, 128, 236);
+    margin: auto;
+    width: 70vw;
+    height: 100vh;
+}
+
+body{
+    width: 400px;
+    background-color: rgb(249, 243, 109);
+}
+
+#a9 {
+    background-color: rgb(169, 223, 191);
+    margin: auto;
+    width: 70%;
+    height: 100%;
+
+}
