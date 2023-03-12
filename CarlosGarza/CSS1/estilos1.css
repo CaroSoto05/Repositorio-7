@@ -1,0 +1,70 @@
+/* Con esta opcion podemos cambiar el color a las secciones cuando el mouse pase por encima del elemento */
+
+section:hover {
+    background-color: green;
+}
+
+p:hover {
+    font-size: 20px;
+    font-variant: small-caps;
+}
+
+a {
+    text-decoration: none;
+    border: 1px solid aqua;
+    padding: 6px;
+}
+
+a:hover {
+    background-color: yellow;
+    color: white;
+}
+
+/* Aplicamos un estilo al 1er elemento de la lista */
+
+#lista-1 li:first-child {
+    border-top: 3px dotted red;
+    color: orchid;
+
+}
+
+/* Aplicamos el ultimo estilo al 1er elemento de la lista */
+
+#lista-1 li:last-child {
+    background-color: aliceblue;
+    border-bottom: 4px dotted black;
+}
+
+/* aplicamos estilo al 9 elemento */
+
+#lista-1 li:nth-child(9) {
+    border: 1px solid goldenrod;
+    border-radius: 3px;
+}
+
+/* Aplicamos estilo cada 5 elementos o items */
+#lista-1 li:nth-child(5n) {
+    border-bottom: 4px dotted purple;
+}
+
+/* ponemos el estilo a cada elemento impar o diferente */
+#lista-2 li:nth-child(odd) {
+    background-color:palevioletred;
+}
+
+/* ponemoks estilo a los elmentos que sean pares */
+
+#lista-2 li:nth-child(even){
+    background-color: royalblue;
+}
+
+/* Cambiamos el tamaño de la letras de los parrafos*/
+
+p::first-letter {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+p::first-line {
+    background-color: olivedrab;
+}
