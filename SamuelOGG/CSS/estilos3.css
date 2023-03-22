@@ -1,0 +1,49 @@
+/* colores */
+/* primer parafon con color predefinido */
+
+#s1 p:first-child {
+    background-color: rgb(211, 143, 9);
+}
+
+/* segundo parrafo con color rgb */
+#s1 p:nth-child(2) {
+    background-color: #712879;
+}
+
+/* ultimo parrafo con modelo hsl */
+#s1 p:last-child {
+    background-color: hsl(178, 90%, 50%);
+}
+
+#s2 p{
+    color: #fff;
+    height: 10rem;
+    width: 10rem;
+    background-color: #08d557;
+    overflow: auto;
+}
+
+#s3 img {
+    width: 10em;
+    float: left;
+    margin-right: 1em;
+    border: 1px solid #000;
+    border-radius: 100% ;
+}
+
+
+#s4 ul {
+    background-color: #1535a9;
+
+}
+
+#s4 li {
+    float: right;
+    width: 25%;
+}
+
+.clearfix {
+    clear: both;
+    content: "";
+    display: table;
+}

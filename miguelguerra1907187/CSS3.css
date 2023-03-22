@@ -1,0 +1,62 @@
+#bo a{
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 4px;
+    margin: 15px;
+}
+
+
+a:hover{
+    background-color: brown;
+    color: white;
+}
+
+/* arriba es para el boton de regreso */
+
+/* colores predefinidos */
+#s1 p:first-child{
+    background-color: tomato;
+}
+
+#s1 p:nth-child(2){
+    background-color:#2E4F4F;
+
+}
+
+#s1 p:nth-child(3){
+    background-color:hsl(345,90%,75%);
+    
+}
+
+#s2 p{
+    background-color: yellow;
+    width: 10rem;
+    height: 10rem;
+    color: white;
+    overflow: auto;
+}
+
+#s3 img{
+    width: 10em;
+    float: left;
+    margin-right: 1em;
+    border: 1px solid black;
+
+}
+
+#s4 li{
+    float: right;
+    width: 25%;
+
+}
+
+
+.clearfix{
+    clear: both;
+    content: "";
+    display: table;
+}
+
+
+

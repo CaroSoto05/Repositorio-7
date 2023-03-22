@@ -1,0 +1,47 @@
+/* colores */
+/* primer parrafo con color predefinido */
+#s1 p:first-child {
+    background-color: rosybrown;
+}
+/* ------------------------------------- */
+/* Segundo parrafo con color predefinido */
+#s1 p:nth-child(2) {
+    background-color: royalblue;
+}
+/* ------------------------------------- */
+/* Segundo parrafo con color predefinido */
+#s1 p:last-child {
+    background-color: hsl(276, 85%, 60%);
+}
+/* ------------------------------------- */
+
+#s2 p{
+    color: black;
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    overflow: auto;
+}
+
+#s3 img{
+    width: 10rem;
+    float: left;
+    margin-left: 1em;
+    border: 1px solid black;
+    
+}
+
+#s4 ul{
+    background-color: #31e02b;
+}
+
+#s4 li{
+    float: right;
+    width: 25%;
+
+}
+.clearfix {
+    clear: both;
+    content: "";
+    display: table;
+}

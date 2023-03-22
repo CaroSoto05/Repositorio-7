@@ -1,6 +1,6 @@
 /*Cambiar color a las secciones cuando el puntero del mouse pase sobre el elemento*/
 section:hover {
-    background-color: darkblue;
+    background-color: rgba(92, 92, 221, 0.881);
 }
 
 p:hover{
@@ -14,8 +14,8 @@ a{
     padding: 4px;
 }
 a:hover{
-    background-color: tomato;
-    color:blue;
+    background-color: rgba(94, 12, 153, 0.676);
+    color:rgb(0, 0, 0);
 }
 
 /*Aplicar un estilo al primer elemetno de la lista-1*/
@@ -36,16 +36,16 @@ a:hover{
 }
 /*aplicar estilo cada 5 items*/
 #lista-1 li:nth-child(5n){
-    border-bottom: 4px dotted gray;
+    border-bottom: 4px dotted rgb(219, 235, 127);
 }
 /* poner estilo a los elementos impares odd */
 #lista-2 li:nth-child(odd){
-    background-color: blue;
+    background-color: rgb(73, 73, 248);
 }
 
 /* poner estilo a los elementos pares even */
 #lista-2 li:nth-child(even){
-    background-color: crimson;
+    background-color: rgb(15, 248, 182);
 }
 
 /* Cambiar el tamaño de la primer letra de todos los parrafos de la pagina*/
@@ -54,5 +54,5 @@ p::first-letter{
     font-weight: bold;
 }
 p::first-line{
-    background-color: peru;
+    background-color: rgb(87, 225, 186);
 }
