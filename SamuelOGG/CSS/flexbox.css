@@ -1,0 +1,22 @@
+#a1{
+    display: flex;
+
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+
+    background-color: darkkhaki;
+}
+
+#s1{
+    background-color: aquamarine;
+}
+#s2{
+    background-color: blueviolet;
+}
+#s3{
+    background-color: darkcyan;
+}
+#s4{
+    background-color: coral;
+}
