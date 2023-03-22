@@ -1,0 +1,24 @@
+body{
+    background-color: #3ec598;
+}
+
+h1 {
+    text-align: center;
+    background-color: #2d87b1; 
+    font-size: 20px;
+}
+
+h2 { 
+    color: #3b1919;
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color:#88565d;
+
+}
+
+a:hover {
+    background-color: #eee7f0;
+}
