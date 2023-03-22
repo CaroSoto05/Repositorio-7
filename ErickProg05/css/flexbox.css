@@ -1,0 +1,24 @@
+#a1 {
+    background-color: #4E31AA;
+    display: flex;
+
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+#s1 {
+    background-color: #4E6E81;
+}
+
+#s2 {
+    background-color: #DF2E38;
+}
+
+#s3 {
+    background-color: #F0A04B;
+}
+
+#s4 {
+    background-color: #5D9C59;
+}
