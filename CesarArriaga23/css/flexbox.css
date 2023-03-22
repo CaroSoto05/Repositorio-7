@@ -1,0 +1,24 @@
+#a1 {
+    background-color:chocolate;
+    display:flex;
+
+    flex-direction: row;
+    flex-wrap:nowrap;
+    justify-content: center;
+    
+/* es lo mismo 
+    flex-flow: row wrap;*/
+}
+#s1 {
+    background-color: green;
+    
+}
+#s2 {
+    background-color:aqua;
+}
+#s3 {
+    background-color:blueviolet;
+}
+#s4 {
+    background-color:cornflowerblue;
+}

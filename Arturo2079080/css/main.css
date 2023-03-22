@@ -1,0 +1,10 @@
+html {
+    background-color: grey;
+}
+h3, h1, h2, h4 {
+    background-color: coral;
+}
+a, li {
+    background-color: lightcoral;
+    border-bottom: 1px dashed black;
+}

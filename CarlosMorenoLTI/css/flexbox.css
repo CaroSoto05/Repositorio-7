@@ -1,0 +1,23 @@
+#a1 {
+    background-color: #FFD966;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+#s1 {
+    background-color: #FC2947;
+}
+
+#s2 {
+    background-color: #7149C6;
+}
+
+#s3 {
+    background-color: #F4B183;
+}
+
+#s4 {
+    background-color: #FE6244;
+}
