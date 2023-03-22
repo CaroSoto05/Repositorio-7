@@ -1,0 +1,33 @@
+#a1 {
+    background-color:#FFF4E0;
+    display: flex;
+
+    /* son lo mismo */
+    flex-direction: column;
+    flex-wrap: nowrap;
+    /* son lo mismo */
+
+    justify-content: center;
+
+    /*  justify-content: flex-end; */
+    /* height: 500px; */ /* si no tiene altura no va a funcionar el justify content */
+
+    /* dos en uno */
+    /* flex-flow: row wrap; */
+}
+
+#s1 {
+    background-color: #FFBF9B;
+}
+
+#s2 {
+    background-color: #B46060;
+}
+
+#s3 {
+    background-color: #FFBF9B;
+}
+
+#s4 {
+    background-color: #B46060;
+}
