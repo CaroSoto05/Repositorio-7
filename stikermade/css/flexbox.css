@@ -1,0 +1,23 @@
+#a1 {
+    background-color: #FEFAE0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+#s1 {
+    background-color: aquamarine;
+}
+
+#s2 {
+    background-color: darkorange;
+}
+
+#s3 {
+    background-color: darkcyan;
+}
+
+#s4 {
+    background-color: blueviolet;
+}

@@ -1,0 +1,30 @@
+#a1 {
+    display: flex;
+    height: 200px;
+    background-color: #FF0303;
+    align-items: center;
+}
+
+#s1 {
+    background-color: #7149C6;
+    flex-basis: 250px;
+    flex-shrink: 0;
+    flex-grow: 1;
+
+    flex: 1 0 250px;
+}
+
+#s2 {
+    background-color: #FFD966;
+    flex-basis: 150px;
+}
+
+#s3 {
+    background-color: #EA5455;
+    align-self: flex-end;
+}
+
+#s4 {
+    background-color: #539165;
+    flex-grow: 1;
+}
