@@ -1,0 +1,55 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.box {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.flexbox {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.sidebar {
+    width: 200px;
+    height: 100%;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.sidebar li {
+    margin-bottom: 10px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.footer button {
+    background-color: gray;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
