@@ -1,0 +1,23 @@
+#a1 {
+    background-color: rgb(255, 190, 106);
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+#s1 {
+    background-color: rgb(51, 153, 243);
+}
+
+#s2 {
+    background-color: aquamarine;
+}
+
+#s3 {
+    background-color: khaki;
+}
+
+#s4 {
+    background-color: cadetblue;
+}
