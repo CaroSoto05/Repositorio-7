@@ -1,5 +1,8 @@
 #a1 {
     display: flex;
+    height: 200px;
+    background-color: #E384FF;
+    align-items: center;
 }
 
 #s1 {
@@ -7,6 +10,8 @@
     flex-basis: 250px;
     flex-shrink: 0;
     flex-grow: 1;
+    
+    flex: 1 0 250px;
 }
 
 #s2 {
@@ -16,6 +21,7 @@
 
 #s3 {
     background-color: #EA5455;
+    align-self: flex-end;
 }
 
 #s4 {
