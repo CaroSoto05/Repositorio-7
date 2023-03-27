@@ -1,3 +1,13 @@
+#logo {
+    text-align: center; /* centra el logo horizontalmente */
+    margin-bottom: 20px; /* agrega un espacio debajo del logo */
+}
+
+#logo img {
+    width: 100px; /* ajusta el ancho del logo a 100 píxeles */
+    height: auto; /* ajusta la altura proporcionalmente */
+}
+
 .container {
     display: flex;
     flex-direction: row;
