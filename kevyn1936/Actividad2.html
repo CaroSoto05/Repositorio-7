@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Mi Página Web</title>
+	<style>
+		.container {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			justify-content: center;
+			height: 100vh;
+		}
+		.box {
+			width: 200px;
+			height: 200px;
+			border: 1px solid black;
+			margin: 10px;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			text-align: center;
+		}
+		.flexbox {
+			display: flex;
+			justify-content: center;
+			margin-top: 20px;
+		}
+		.sidebar {
+			width: 200px;
+			height: 100%;
+			background-color: #f2f2f2;
+			padding: 10px;
+		}
+		.sidebar ul {
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+		.sidebar li {
+			margin-bottom: 10px;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="sidebar">
+			<ul>
+				<li>3 Amigos</li>
+				<li>Amigos 1</li>
+				<li>Amigos 2</li>
+			</ul>
+		</div>
+        <div class="container">
+            <div class="box">
+                <img src="https://picsum.photos/200/300/?blur=2" alt="">
+                <p>Imagen con blur al 2 </p>
+            </div>
+            <div class="box">
+                <img src="https://picsum.photos/200/300/?blur" alt="">
+                <p>Imagen con mucho blur</p>
+            </div>
+            <div class="box">
+                <img src="https://picsum.photos/200/300?grayscale" alt="">
+                <p>Con Grayscale</p>
+            </div>
+            <div class="box">
+                <img src="https://picsum.photos/seed/picsum/200/300" alt="">
+                <p>Nevado</p>
+            </div>
+            <div class="box">
+                <img src="https://picsum.photos/id/237/200/300" alt="perro">
+                <p>Perrisho</p>
+            </div>
+        </div>
+        <div>
+            <input type="text" placeholder="https://picsum.photos/id/237/200/300">
+            <input type="text" placeholder="Introducir link">
+            <input type="text" placeholder="Introducir link">
+            <input type="text" placeholder="Introducir link">
+            <input type="text" placeholder="Introducir link">
+        </div>
+        <p>Texto de ejemplo</p>
+        <div class="flexbox">
+            <button onclick="window.location.href='https://www.google.com/'">Salir</button>
+        </div>
+    </body>
+</html>
