@@ -1,0 +1,32 @@
+#a1 {
+    background-color:whitesmoke;
+    display: flex;
+    
+    flex-direction: row;
+    justify-content:space-around;    
+}
+#s1 {
+    background-color: green;
+    height: 200px;
+    width: 200px;
+}
+#s2 {
+    background-color:aqua;
+    height: 200px;
+    width: 200px;
+}
+#s3 {
+    background-color:blueviolet;
+    height: 200px;
+    width: 200px;
+}
+#s4 {
+    background-color:cornflowerblue;
+    height: 200px;
+    width: 200px;
+}
+#s5 {
+    background-color:darkgray;
+    height: 200px;
+    width: 200px;
+}

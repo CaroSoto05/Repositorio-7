@@ -1,0 +1,43 @@
+#art1 {
+    display: flex;
+}
+
+#as1 {
+    flex-basis: 150px;
+    flex-direction: column;
+}
+
+#bx1 {
+    text-decoration: none;
+    border: 5px solid black;
+    border-radius: 5px;
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+}
+
+#art2 {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+}
+
+#art2 img {
+    width: 100%;
+}
+
+#sec1 {
+    flex-basis: 150px;
+}
+#sec2 {
+    flex-basis: 150px;
+}
+#sec3 {
+    flex-basis: 150px;
+}
+#sec4 {
+    flex-basis: 150px;
+}
+#sec5 {
+    flex-basis: 150px;
+}
