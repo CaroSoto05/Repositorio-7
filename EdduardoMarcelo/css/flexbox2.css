@@ -1,0 +1,29 @@
+#a1 {
+    display: flex;
+    height: 200px;
+    background-color: grey;
+    align-items: center;
+}
+
+#s1 {
+    background-color: aqua;
+    flex-basis: 250px;
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex: 1 0 250px;
+}
+
+#s2 {
+    background-color: crimson;
+    flex-basis: 150px;
+}
+
+#s3 {
+    background-color: darkorchid;
+    align-self: flex-end;
+}
+
+#s4 {
+    background-color: gold;
+    flex-grow: 1;
+}
