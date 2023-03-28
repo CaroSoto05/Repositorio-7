@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #2C3333;
+}
+
+/* APARTADO LATERAL ARRIBA */
+
+#menu{
+    background-color: #0E8388;
+    display: flex;
+    flex-direction: column;
+    height: 60vh;
+    width: 15vw;
+}
+
+#menu li{
+    color: white;
+    list-style-type: none;
+}
+
+#menu h2{
+    text-align: center;
+    color: white;
+}
+
+#menua{
+    background-color: #0E8388;
+    display: flex;
+    flex-direction: end;
+    height: 40vh;
+    width: 15vw;
+}
+
+#menua img{
+    height: 30vh;
+    width: 30vw;
+}
+
+
