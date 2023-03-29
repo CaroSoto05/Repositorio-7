@@ -1,11 +1,11 @@
 #logo {
-    text-align: center; /* centra el logo horizontalmente */
-    margin-bottom: 20px; /* agrega un espacio debajo del logo */
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 #logo img {
-    width: 100px; /* ajusta el ancho del logo a 100 píxeles */
-    height: auto; /* ajusta la altura proporcionalmente */
+    width: 200px;
+    height: auto;
 }
 
 .container {
@@ -16,10 +16,10 @@
     height: 100vh;
 }
 .box {
-    width: 200px;
-    height: 200px;
-    border: 1px solid black;
-    margin: 10px;
+    width: 250px;
+    height: 500px;
+    border: 2px solid black;
+    margin: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -34,7 +34,7 @@
 .sidebar {
     width: 200px;
     height: 100%;
-    background-color: #f2f2f2;
+    background-color: #07c7f7;
     padding: 10px;
 }
 .sidebar ul {
@@ -49,17 +49,20 @@
     position: absolute;
     bottom: 0;
     width: 100%;
-    background-color: #f2f2f2;
+    background-color: #184bf3;
     display: flex;
     justify-content: center;
-    padding: 10px;
+    padding: 30px;
 }
 .footer button {
-    background-color: gray;
+    background-color: rgb(40, 168, 241);
     color: white;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
     font-size: 16px;
     cursor: pointer;
+}
+body{
+    background-color: rgb(142, 245, 240);
 }
