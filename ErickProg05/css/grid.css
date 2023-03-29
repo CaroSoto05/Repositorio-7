@@ -1,0 +1,52 @@
+#page1 {
+    display:grid;
+    grid-template-columns: 5fr 1fr;
+    grid-template-rows: 100px 200px;
+}
+
+#page1 header {
+    background-color: #B2A4FF;
+    grid-column: 1 / -1;
+}
+
+#page1 main {
+    background-color: #FC2947;
+}
+
+#page1 aside {
+    background-color: #408E91;
+}
+
+#page1 footer {
+    background-color: #FFD966;
+    grid-column: 1 / -1;
+}
+
+/* estilos pagina 2 */
+#page2 {
+    display:grid;
+    grid-template-columns: 5fr 1fr;
+    grid-template-areas:"h a"
+                        "m a"
+                        "f f"
+}
+
+#page2 header {
+    background-color: #B2A4FF;
+    grid-area: h;
+}
+
+#page2 main {
+    background-color: #FC2947;
+    grid-area: m
+}
+
+#page2 aside {
+    background-color: #408E91;
+    grid-area: a;
+}
+
+#page2 footer {
+    background-color: #FFD966;
+    grid-area: f;
+}
