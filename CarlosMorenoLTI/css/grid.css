@@ -1,0 +1,52 @@
+#page1 {
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    grid-template-rows: 100px 200px;
+}
+
+#page1 header {
+    background-color: #19376D;
+    grid-column: 1 / -1;
+}
+
+#page1 main {
+    background-color: #576CBC;
+}
+
+#page1 aside {
+    background-color: #FEFF86;
+}
+
+#page1 footer {
+    background-color: #E21818;
+    grid-column: 1 / -1;
+}
+
+/* Pagina 2 */
+#page2 {
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    grid-template-areas: "h h"
+                         "m a"   
+                         "f a" ;
+}
+
+#page2 header {
+    background-color: #19376D;
+    grid-area: h;
+}
+
+#page2 main {
+    background-color: #576CBC;
+    grid-area: m;
+}
+
+#page2 aside {
+    background-color: #FEFF86;
+    grid-area: a;
+}
+
+#page2 footer {
+    background-color: #E21818;
+    grid-area: f;
+}
