@@ -1,0 +1,36 @@
+
+#aside{
+    background-color: pink;
+    width: 30%;
+    
+    
+    
+    float: left;
+    height: 100vh;
+
+}
+#a1{
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    height: 80%;
+}
+
+main{
+    float: right;
+    width: 70%;
+
+}
+
+
+#s1{
+    background-color: yellow;
+    display: flex;
+    flex: column;
+    justify-content: space-between;
+    
+
+}
+#s2{
+    display: flex;
+    justify-content: center;
+}

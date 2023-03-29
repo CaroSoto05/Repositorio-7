@@ -1,0 +1,29 @@
+html{
+    background-color: #1E282D;
+}
+#a1{
+    background-color: #0A323C;
+    display: flex;
+/*     flex-direction: row;
+    flex-wrap: wrap; */
+    flex-flow: column nowrap;
+
+    justify-content: space-between;
+    height: 500px;
+}
+#S1{
+    background-color: #C8AA6E;
+    /* width: 80%; */
+}
+#S2{
+    background-color: #C89B3C;
+}
+#S3{
+    background-color: #463714;
+}
+#S4{
+    background-color: #32281E;
+}
+h1{
+    color: #0AC8B9;
+}

@@ -1,0 +1,26 @@
+#a1 {
+    display: flex;
+    align-items: center;
+    
+}
+#s1{
+    color: #E3CCAE;
+    background-color: #000000;
+/*  flex-basis: 250px;
+    flex-shrink: 0;
+    flex.grow: 1;
+ */
+    flex: 1 0 250px;
+}
+#s2{
+    color: #E3CCAE;
+    background-color: #262A56;
+    flex-grow: 2;
+}
+#s3{
+    background-color: #B8621B;
+}
+#s4{
+    background-color: #E3CCAE;
+    flex-grow: 3;
+}      

@@ -1,0 +1,29 @@
+#a1{
+    background-color: #efd;
+    display: flex;
+    /* row es por defecto */
+    /* flex-direction: row-reverse; */
+    flex-direction: column;
+    /* flex-direction: column-reverse; */
+    /* flex-wrap: wrap; */
+    /* En esta se resumen las ultimas 2 */
+    /* flex-flow: row wrap; */
+    /* flex star, end */
+/* space betwin, around, evenly */
+    justify-content: center;
+    height: 500px;
+}
+
+#s1{
+    background-color: #e21818;
+    /* width: 90%; */
+}
+#s2{
+    background-color: #186ce2;
+}
+#s3{
+    background-color: #e2ba18;
+}
+#s4{
+    background-color: #18e2df;
+}

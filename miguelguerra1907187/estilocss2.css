@@ -1,0 +1,136 @@
+a{
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 4px;
+    margin: 15px;
+}
+
+
+a:hover{
+    background-color: brown;
+    color: white;
+}
+
+
+
+article{
+    text-align: center;
+}
+
+.producto{
+    background-color: violet;
+}
+div{
+    background-color: yellow !important;
+    margin: 10px;
+}
+
+/* modelo de cajas */
+/* poner color de fondo al articulo y al parrafo un color diferente */
+
+#a1{
+    background-color: aqua;
+    padding: 5px;
+    margin: 10px;
+    border: 5px solid black;
+}
+
+#a1 p{
+background-color: tomato;
+margin: 0;
+}
+
+#a2{
+background-color: blue;
+padding: 5px;
+margin: 10px;
+}
+
+#a2 p{
+    background-color: green;
+    border: 3px solid white;
+    /* rellenos iguales los 4 lados */
+    padding: 10px;
+    /* el primer numero es superior e inferior y el segundo es izquierda y derecha */
+    padding: 10px 20px;
+
+
+
+    /* 10 de alto, 50 izquirsa y derecha y 30 abajo */
+    padding: 10px 50px 30px;
+
+        /* 10 de alto, 20 derecha y 3o de abajoy 40 izquierda */
+
+    padding: 10px 20px 30px 40px;
+    /* los borders se especifican lado por lado */
+    margin: 10px;
+}
+
+#a3{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 5px solid black;
+    margin: 10px;
+}
+
+
+
+#a4{
+    background-color: darkgray;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+#a5{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+
+}
+
+
+#a5 span{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+
+
+#a6{
+    background-color: red;
+    width: 150px;
+    height: 100px;
+    display:inline-block;
+}
+
+#a7 p{
+    font-size: 16px;
+    background-color: aqua;
+    border:0.5em solid black;
+    padding: 1em;
+    margin: 1.5em;
+
+}
+
+#a8{
+    background-color:green;
+    height: 100vh;
+    width: 50vh;
+    margin: auto;
+}
+
+#a9{
+    background-color:lime;
+    margin: auto;
+    width: 70%;
+    height: 100%;
+}

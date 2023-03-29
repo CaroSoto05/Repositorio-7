@@ -1,0 +1,68 @@
+#lista{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+
+}
+#a1{
+    background-color: gray;
+    flex-basis: 120px;
+    border-radius: 3px;
+    margin: 4px;
+}
+#a2{
+    background-color: gray;
+    flex-basis: 120px;
+    border-radius: 3px;
+    margin: 4px;
+
+}
+#a3{
+    background-color: gray;
+    flex-basis: 120px;
+    border-radius: 3px;
+    margin: 4px;
+
+}
+#a4{
+    background-color: gray;
+    flex-basis: 120px;
+    border-radius: 3px;
+    margin: 4px;
+
+}
+#a5{
+    background-color: gray;
+    flex-basis: 120px;
+    border-radius: 3px;
+    margin: 4px;
+
+}
+#a6{
+    background-color: gray;
+    flex-basis: 120px;
+    border-radius: 3px;
+    margin: 4px;
+    text-align: justify;
+}
+
+
+
+
+#ponmestrong{
+    text-decoration: white;
+}
+
+section{
+    height: 200px;
+    width: 250px;
+    background-color: gray;
+    margin: 6px;
+}
+
+#fondo{
+    width: 100vh;
+    display:
+}
