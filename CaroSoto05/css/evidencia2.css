@@ -1,0 +1,152 @@
+html {
+    display: flex;
+    background-color: #131516;
+}
+
+#as1 {
+    background-color:#292831;
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-direction: column;
+    padding-left: 25px;
+    padding-right: 25px;
+    width: 25%;
+    height: 100vh;
+    float: left;
+}
+
+#a1 {
+    height: 70%;
+}
+
+#s1 {
+    color: #aeafb3;
+    text-align: left;
+    font-size: 8px;
+    font-variant: small-caps;
+    font-family: Arial;
+}
+
+#s2 {
+    color: #aeafb3;
+    font-size: 12px;
+    text-align: center;
+    font-family: sans-serif;
+    border-radius: 10px;
+    background-color: black;
+    border: solid whitesmoke;
+}
+
+#s3 {
+    color: #aeafb3;
+    font-size: 12px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+#s4 {
+    color: #aeafb3;
+    font-size: 12px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+#s5 {
+    color: #aeafb3;
+    font-size: 12px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+#a2 {
+    color: white;
+}
+
+#d1 {   
+    text-align: center;
+}
+
+
+#a3 {
+    display: flex;
+    color: whitesmoke;
+    justify-content: space-between;
+    width: 70%;
+    height: 30%;
+    float: right;
+}
+
+#s6 {
+    background-color: #292831;
+    flex-direction: column;
+    border-radius: 5px;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    padding: 25px;
+}
+
+#s7 {
+    background-color: #292831;
+    flex-direction: column;
+    border-radius: 5px;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    padding: 25px;
+}
+
+#s8 {
+    background-color: #292831;
+    flex-direction: column;
+    border-radius: 5px;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    padding: 25px;
+}
+
+#s9 {
+    background-color: #292831;
+    flex-direction: column;
+    border-radius: 5px;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    padding: 25px;
+    
+}
+#s9 img{
+    width: 150px ;
+    height: 100px;
+}
+
+
+#a4 {   
+    background-color: #292831;
+    display: flex;
+    color: whitesmoke;
+    justify-content: space-between;
+    width: 70%;
+    margin-top: 15px;
+    height: 70vh;
+    float: right;
+    justify-content: end;
+}
+#a4 img{
+    width: 150px ;
+    height: 100px;
+}
+#s10 {
+    padding: 25px;
+    text-align: center;
+    color: white;
+}
+
+#s10 img{
+    width: 150px ;
+    height: 100px;
+}
+
+
